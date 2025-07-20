@@ -1,1 +1,0 @@
-# SENKRON Projesi Readme
