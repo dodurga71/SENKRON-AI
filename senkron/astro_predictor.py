@@ -1,0 +1,1 @@
+# Astrolojik tahmin motoru

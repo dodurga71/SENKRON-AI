@@ -1,0 +1,1 @@
+# Finansal veri analizi + Gann

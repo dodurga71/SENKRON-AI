@@ -1,0 +1,3001 @@
+Tarih,Olay,Ülke,Etki
+2001-09-11,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2008-09-15,Lehman Brothers'ın Batışı,ABD,Yüksek
+2020-03-11,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2011-03-11,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2016-06-23,Brexit Referandumu,İngiltere,Orta
+2022-02-24,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2005-08-29,Katrina Kasırgası,ABD,Yüksek
+2010-01-12,Haiti Depremi,Haiti,Yüksek
+2019-04-15,Notre Dame Yangını,Fransa,Düşük
+2018-03-18,Cambridge Analytica Skandalı,ABD,Orta
+1960-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1961-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1962-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1963-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1964-01-01,Brexit Referandumu,İngiltere,Orta
+1965-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1966-01-01,Katrina Kasırgası,ABD,Yüksek
+1967-01-01,Haiti Depremi,Haiti,Yüksek
+1968-01-01,Notre Dame Yangını,Fransa,Düşük
+1969-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1970-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1971-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1972-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1973-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1974-01-01,Brexit Referandumu,İngiltere,Orta
+1975-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1976-01-01,Katrina Kasırgası,ABD,Yüksek
+1977-01-01,Haiti Depremi,Haiti,Yüksek
+1978-01-01,Notre Dame Yangını,Fransa,Düşük
+1979-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1980-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1981-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1982-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1983-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1984-01-01,Brexit Referandumu,İngiltere,Orta
+1985-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1986-01-01,Katrina Kasırgası,ABD,Yüksek
+1987-01-01,Haiti Depremi,Haiti,Yüksek
+1988-01-01,Notre Dame Yangını,Fransa,Düşük
+1989-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1990-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1991-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1992-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1993-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1994-01-01,Brexit Referandumu,İngiltere,Orta
+1995-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1996-01-01,Katrina Kasırgası,ABD,Yüksek
+1997-01-01,Haiti Depremi,Haiti,Yüksek
+1998-01-01,Notre Dame Yangını,Fransa,Düşük
+1999-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2000-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2001-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2002-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2003-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2004-01-01,Brexit Referandumu,İngiltere,Orta
+2005-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2006-01-01,Katrina Kasırgası,ABD,Yüksek
+2007-01-01,Haiti Depremi,Haiti,Yüksek
+2008-01-01,Notre Dame Yangını,Fransa,Düşük
+2009-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2010-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2011-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2012-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2013-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2014-01-01,Brexit Referandumu,İngiltere,Orta
+2015-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2016-01-01,Katrina Kasırgası,ABD,Yüksek
+2017-01-01,Haiti Depremi,Haiti,Yüksek
+2018-01-01,Notre Dame Yangını,Fransa,Düşük
+2019-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2020-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2021-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2022-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1950-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1951-01-01,Brexit Referandumu,İngiltere,Orta
+1952-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1953-01-01,Katrina Kasırgası,ABD,Yüksek
+1954-01-01,Haiti Depremi,Haiti,Yüksek
+1955-01-01,Notre Dame Yangını,Fransa,Düşük
+1956-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1957-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1958-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1959-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1960-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1961-01-01,Brexit Referandumu,İngiltere,Orta
+1962-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1963-01-01,Katrina Kasırgası,ABD,Yüksek
+1964-01-01,Haiti Depremi,Haiti,Yüksek
+1965-01-01,Notre Dame Yangını,Fransa,Düşük
+1966-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1967-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1968-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1969-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1970-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1971-01-01,Brexit Referandumu,İngiltere,Orta
+1972-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1973-01-01,Katrina Kasırgası,ABD,Yüksek
+1974-01-01,Haiti Depremi,Haiti,Yüksek
+1975-01-01,Notre Dame Yangını,Fransa,Düşük
+1976-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1977-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1978-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1979-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1980-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1981-01-01,Brexit Referandumu,İngiltere,Orta
+1982-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1983-01-01,Katrina Kasırgası,ABD,Yüksek
+1984-01-01,Haiti Depremi,Haiti,Yüksek
+1985-01-01,Notre Dame Yangını,Fransa,Düşük
+1986-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1987-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1988-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1989-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1990-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1991-01-01,Brexit Referandumu,İngiltere,Orta
+1992-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1993-01-01,Katrina Kasırgası,ABD,Yüksek
+1994-01-01,Haiti Depremi,Haiti,Yüksek
+1995-01-01,Notre Dame Yangını,Fransa,Düşük
+1996-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1997-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1998-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1999-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2000-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2001-01-01,Brexit Referandumu,İngiltere,Orta
+2002-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2003-01-01,Katrina Kasırgası,ABD,Yüksek
+2004-01-01,Haiti Depremi,Haiti,Yüksek
+2005-01-01,Notre Dame Yangını,Fransa,Düşük
+2006-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2007-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2008-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2009-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2010-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2011-01-01,Brexit Referandumu,İngiltere,Orta
+2012-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2013-01-01,Katrina Kasırgası,ABD,Yüksek
+2014-01-01,Haiti Depremi,Haiti,Yüksek
+2015-01-01,Notre Dame Yangını,Fransa,Düşük
+2016-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2017-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2018-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2019-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2020-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2021-01-01,Brexit Referandumu,İngiltere,Orta
+2022-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1950-01-01,Katrina Kasırgası,ABD,Yüksek
+1951-01-01,Haiti Depremi,Haiti,Yüksek
+1952-01-01,Notre Dame Yangını,Fransa,Düşük
+1953-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1954-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1955-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1956-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1957-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1958-01-01,Brexit Referandumu,İngiltere,Orta
+1959-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1960-01-01,Katrina Kasırgası,ABD,Yüksek
+1961-01-01,Haiti Depremi,Haiti,Yüksek
+1962-01-01,Notre Dame Yangını,Fransa,Düşük
+1963-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1964-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1965-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1966-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1967-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1968-01-01,Brexit Referandumu,İngiltere,Orta
+1969-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1970-01-01,Katrina Kasırgası,ABD,Yüksek
+1971-01-01,Haiti Depremi,Haiti,Yüksek
+1972-01-01,Notre Dame Yangını,Fransa,Düşük
+1973-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1974-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1975-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1976-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1977-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1978-01-01,Brexit Referandumu,İngiltere,Orta
+1979-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1980-01-01,Katrina Kasırgası,ABD,Yüksek
+1981-01-01,Haiti Depremi,Haiti,Yüksek
+1982-01-01,Notre Dame Yangını,Fransa,Düşük
+1983-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1984-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1985-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1986-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1987-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1988-01-01,Brexit Referandumu,İngiltere,Orta
+1989-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1990-01-01,Katrina Kasırgası,ABD,Yüksek
+1991-01-01,Haiti Depremi,Haiti,Yüksek
+1992-01-01,Notre Dame Yangını,Fransa,Düşük
+1993-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1994-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1995-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1996-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1997-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1998-01-01,Brexit Referandumu,İngiltere,Orta
+1999-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2000-01-01,Katrina Kasırgası,ABD,Yüksek
+2001-01-01,Haiti Depremi,Haiti,Yüksek
+2002-01-01,Notre Dame Yangını,Fransa,Düşük
+2003-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2004-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2005-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2006-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2007-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2008-01-01,Brexit Referandumu,İngiltere,Orta
+2009-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2010-01-01,Katrina Kasırgası,ABD,Yüksek
+2011-01-01,Haiti Depremi,Haiti,Yüksek
+2012-01-01,Notre Dame Yangını,Fransa,Düşük
+2013-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2014-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2015-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2016-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2017-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2018-01-01,Brexit Referandumu,İngiltere,Orta
+2019-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2020-01-01,Katrina Kasırgası,ABD,Yüksek
+2021-01-01,Haiti Depremi,Haiti,Yüksek
+2022-01-01,Notre Dame Yangını,Fransa,Düşük
+1950-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1951-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1952-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1953-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1954-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1955-01-01,Brexit Referandumu,İngiltere,Orta
+1956-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1957-01-01,Katrina Kasırgası,ABD,Yüksek
+1958-01-01,Haiti Depremi,Haiti,Yüksek
+1959-01-01,Notre Dame Yangını,Fransa,Düşük
+1960-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1961-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1962-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1963-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1964-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1965-01-01,Brexit Referandumu,İngiltere,Orta
+1966-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1967-01-01,Katrina Kasırgası,ABD,Yüksek
+1968-01-01,Haiti Depremi,Haiti,Yüksek
+1969-01-01,Notre Dame Yangını,Fransa,Düşük
+1970-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1971-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1972-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1973-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1974-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1975-01-01,Brexit Referandumu,İngiltere,Orta
+1976-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1977-01-01,Katrina Kasırgası,ABD,Yüksek
+1978-01-01,Haiti Depremi,Haiti,Yüksek
+1979-01-01,Notre Dame Yangını,Fransa,Düşük
+1980-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1981-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1982-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1983-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1984-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1985-01-01,Brexit Referandumu,İngiltere,Orta
+1986-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1987-01-01,Katrina Kasırgası,ABD,Yüksek
+1988-01-01,Haiti Depremi,Haiti,Yüksek
+1989-01-01,Notre Dame Yangını,Fransa,Düşük
+1990-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1991-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1992-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1993-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1994-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1995-01-01,Brexit Referandumu,İngiltere,Orta
+1996-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1997-01-01,Katrina Kasırgası,ABD,Yüksek
+1998-01-01,Haiti Depremi,Haiti,Yüksek
+1999-01-01,Notre Dame Yangını,Fransa,Düşük
+2000-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2001-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2002-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2003-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2004-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2005-01-01,Brexit Referandumu,İngiltere,Orta
+2006-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2007-01-01,Katrina Kasırgası,ABD,Yüksek
+2008-01-01,Haiti Depremi,Haiti,Yüksek
+2009-01-01,Notre Dame Yangını,Fransa,Düşük
+2010-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2011-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2012-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2013-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2014-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2015-01-01,Brexit Referandumu,İngiltere,Orta
+2016-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2017-01-01,Katrina Kasırgası,ABD,Yüksek
+2018-01-01,Haiti Depremi,Haiti,Yüksek
+2019-01-01,Notre Dame Yangını,Fransa,Düşük
+2020-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2021-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2022-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1950-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1951-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1952-01-01,Brexit Referandumu,İngiltere,Orta
+1953-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1954-01-01,Katrina Kasırgası,ABD,Yüksek
+1955-01-01,Haiti Depremi,Haiti,Yüksek
+1956-01-01,Notre Dame Yangını,Fransa,Düşük
+1957-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1958-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1959-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1960-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1961-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1962-01-01,Brexit Referandumu,İngiltere,Orta
+1963-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1964-01-01,Katrina Kasırgası,ABD,Yüksek
+1965-01-01,Haiti Depremi,Haiti,Yüksek
+1966-01-01,Notre Dame Yangını,Fransa,Düşük
+1967-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1968-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1969-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1970-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1971-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1972-01-01,Brexit Referandumu,İngiltere,Orta
+1973-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1974-01-01,Katrina Kasırgası,ABD,Yüksek
+1975-01-01,Haiti Depremi,Haiti,Yüksek
+1976-01-01,Notre Dame Yangını,Fransa,Düşük
+1977-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1978-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1979-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1980-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1981-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1982-01-01,Brexit Referandumu,İngiltere,Orta
+1983-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1984-01-01,Katrina Kasırgası,ABD,Yüksek
+1985-01-01,Haiti Depremi,Haiti,Yüksek
+1986-01-01,Notre Dame Yangını,Fransa,Düşük
+1987-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1988-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1989-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1990-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1991-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1992-01-01,Brexit Referandumu,İngiltere,Orta
+1993-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1994-01-01,Katrina Kasırgası,ABD,Yüksek
+1995-01-01,Haiti Depremi,Haiti,Yüksek
+1996-01-01,Notre Dame Yangını,Fransa,Düşük
+1997-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1998-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1999-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2000-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2001-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2002-01-01,Brexit Referandumu,İngiltere,Orta
+2003-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2004-01-01,Katrina Kasırgası,ABD,Yüksek
+2005-01-01,Haiti Depremi,Haiti,Yüksek
+2006-01-01,Notre Dame Yangını,Fransa,Düşük
+2007-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2008-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2009-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2010-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2011-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2012-01-01,Brexit Referandumu,İngiltere,Orta
+2013-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2014-01-01,Katrina Kasırgası,ABD,Yüksek
+2015-01-01,Haiti Depremi,Haiti,Yüksek
+2016-01-01,Notre Dame Yangını,Fransa,Düşük
+2017-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2018-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2019-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2020-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2021-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2022-01-01,Brexit Referandumu,İngiltere,Orta
+1950-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1951-01-01,Katrina Kasırgası,ABD,Yüksek
+1952-01-01,Haiti Depremi,Haiti,Yüksek
+1953-01-01,Notre Dame Yangını,Fransa,Düşük
+1954-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1955-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1956-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1957-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1958-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1959-01-01,Brexit Referandumu,İngiltere,Orta
+1960-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1961-01-01,Katrina Kasırgası,ABD,Yüksek
+1962-01-01,Haiti Depremi,Haiti,Yüksek
+1963-01-01,Notre Dame Yangını,Fransa,Düşük
+1964-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1965-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1966-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1967-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1968-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1969-01-01,Brexit Referandumu,İngiltere,Orta
+1970-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1971-01-01,Katrina Kasırgası,ABD,Yüksek
+1972-01-01,Haiti Depremi,Haiti,Yüksek
+1973-01-01,Notre Dame Yangını,Fransa,Düşük
+1974-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1975-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1976-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1977-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1978-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1979-01-01,Brexit Referandumu,İngiltere,Orta
+1980-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1981-01-01,Katrina Kasırgası,ABD,Yüksek
+1982-01-01,Haiti Depremi,Haiti,Yüksek
+1983-01-01,Notre Dame Yangını,Fransa,Düşük
+1984-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1985-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1986-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1987-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1988-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1989-01-01,Brexit Referandumu,İngiltere,Orta
+1990-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1991-01-01,Katrina Kasırgası,ABD,Yüksek
+1992-01-01,Haiti Depremi,Haiti,Yüksek
+1993-01-01,Notre Dame Yangını,Fransa,Düşük
+1994-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1995-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1996-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1997-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1998-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1999-01-01,Brexit Referandumu,İngiltere,Orta
+2000-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2001-01-01,Katrina Kasırgası,ABD,Yüksek
+2002-01-01,Haiti Depremi,Haiti,Yüksek
+2003-01-01,Notre Dame Yangını,Fransa,Düşük
+2004-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2005-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2006-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2007-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2008-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2009-01-01,Brexit Referandumu,İngiltere,Orta
+2010-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2011-01-01,Katrina Kasırgası,ABD,Yüksek
+2012-01-01,Haiti Depremi,Haiti,Yüksek
+2013-01-01,Notre Dame Yangını,Fransa,Düşük
+2014-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2015-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2016-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2017-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2018-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2019-01-01,Brexit Referandumu,İngiltere,Orta
+2020-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2021-01-01,Katrina Kasırgası,ABD,Yüksek
+2022-01-01,Haiti Depremi,Haiti,Yüksek
+1950-01-01,Notre Dame Yangını,Fransa,Düşük
+1951-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1952-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1953-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1954-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1955-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1956-01-01,Brexit Referandumu,İngiltere,Orta
+1957-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1958-01-01,Katrina Kasırgası,ABD,Yüksek
+1959-01-01,Haiti Depremi,Haiti,Yüksek
+1960-01-01,Notre Dame Yangını,Fransa,Düşük
+1961-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1962-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1963-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1964-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1965-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1966-01-01,Brexit Referandumu,İngiltere,Orta
+1967-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1968-01-01,Katrina Kasırgası,ABD,Yüksek
+1969-01-01,Haiti Depremi,Haiti,Yüksek
+1970-01-01,Notre Dame Yangını,Fransa,Düşük
+1971-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1972-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1973-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1974-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1975-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1976-01-01,Brexit Referandumu,İngiltere,Orta
+1977-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1978-01-01,Katrina Kasırgası,ABD,Yüksek
+1979-01-01,Haiti Depremi,Haiti,Yüksek
+1980-01-01,Notre Dame Yangını,Fransa,Düşük
+1981-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1982-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1983-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1984-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1985-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1986-01-01,Brexit Referandumu,İngiltere,Orta
+1987-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1988-01-01,Katrina Kasırgası,ABD,Yüksek
+1989-01-01,Haiti Depremi,Haiti,Yüksek
+1990-01-01,Notre Dame Yangını,Fransa,Düşük
+1991-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1992-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1993-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1994-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1995-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1996-01-01,Brexit Referandumu,İngiltere,Orta
+1997-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1998-01-01,Katrina Kasırgası,ABD,Yüksek
+1999-01-01,Haiti Depremi,Haiti,Yüksek
+2000-01-01,Notre Dame Yangını,Fransa,Düşük
+2001-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2002-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2003-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2004-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2005-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2006-01-01,Brexit Referandumu,İngiltere,Orta
+2007-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2008-01-01,Katrina Kasırgası,ABD,Yüksek
+2009-01-01,Haiti Depremi,Haiti,Yüksek
+2010-01-01,Notre Dame Yangını,Fransa,Düşük
+2011-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2012-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2013-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2014-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2015-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2016-01-01,Brexit Referandumu,İngiltere,Orta
+2017-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2018-01-01,Katrina Kasırgası,ABD,Yüksek
+2019-01-01,Haiti Depremi,Haiti,Yüksek
+2020-01-01,Notre Dame Yangını,Fransa,Düşük
+2021-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2022-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1950-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1951-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1952-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1953-01-01,Brexit Referandumu,İngiltere,Orta
+1954-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1955-01-01,Katrina Kasırgası,ABD,Yüksek
+1956-01-01,Haiti Depremi,Haiti,Yüksek
+1957-01-01,Notre Dame Yangını,Fransa,Düşük
+1958-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1959-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1960-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1961-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1962-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1963-01-01,Brexit Referandumu,İngiltere,Orta
+1964-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1965-01-01,Katrina Kasırgası,ABD,Yüksek
+1966-01-01,Haiti Depremi,Haiti,Yüksek
+1967-01-01,Notre Dame Yangını,Fransa,Düşük
+1968-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1969-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1970-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1971-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1972-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1973-01-01,Brexit Referandumu,İngiltere,Orta
+1974-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1975-01-01,Katrina Kasırgası,ABD,Yüksek
+1976-01-01,Haiti Depremi,Haiti,Yüksek
+1977-01-01,Notre Dame Yangını,Fransa,Düşük
+1978-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1979-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1980-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1981-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1982-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1983-01-01,Brexit Referandumu,İngiltere,Orta
+1984-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1985-01-01,Katrina Kasırgası,ABD,Yüksek
+1986-01-01,Haiti Depremi,Haiti,Yüksek
+1987-01-01,Notre Dame Yangını,Fransa,Düşük
+1988-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1989-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1990-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1991-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1992-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1993-01-01,Brexit Referandumu,İngiltere,Orta
+1994-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1995-01-01,Katrina Kasırgası,ABD,Yüksek
+1996-01-01,Haiti Depremi,Haiti,Yüksek
+1997-01-01,Notre Dame Yangını,Fransa,Düşük
+1998-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1999-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2000-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2001-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2002-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2003-01-01,Brexit Referandumu,İngiltere,Orta
+2004-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2005-01-01,Katrina Kasırgası,ABD,Yüksek
+2006-01-01,Haiti Depremi,Haiti,Yüksek
+2007-01-01,Notre Dame Yangını,Fransa,Düşük
+2008-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2009-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2010-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2011-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2012-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2013-01-01,Brexit Referandumu,İngiltere,Orta
+2014-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2015-01-01,Katrina Kasırgası,ABD,Yüksek
+2016-01-01,Haiti Depremi,Haiti,Yüksek
+2017-01-01,Notre Dame Yangını,Fransa,Düşük
+2018-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2019-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2020-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2021-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2022-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1950-01-01,Brexit Referandumu,İngiltere,Orta
+1951-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1952-01-01,Katrina Kasırgası,ABD,Yüksek
+1953-01-01,Haiti Depremi,Haiti,Yüksek
+1954-01-01,Notre Dame Yangını,Fransa,Düşük
+1955-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1956-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1957-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1958-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1959-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1960-01-01,Brexit Referandumu,İngiltere,Orta
+1961-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1962-01-01,Katrina Kasırgası,ABD,Yüksek
+1963-01-01,Haiti Depremi,Haiti,Yüksek
+1964-01-01,Notre Dame Yangını,Fransa,Düşük
+1965-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1966-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1967-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1968-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1969-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1970-01-01,Brexit Referandumu,İngiltere,Orta
+1971-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1972-01-01,Katrina Kasırgası,ABD,Yüksek
+1973-01-01,Haiti Depremi,Haiti,Yüksek
+1974-01-01,Notre Dame Yangını,Fransa,Düşük
+1975-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1976-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1977-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1978-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1979-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1980-01-01,Brexit Referandumu,İngiltere,Orta
+1981-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1982-01-01,Katrina Kasırgası,ABD,Yüksek
+1983-01-01,Haiti Depremi,Haiti,Yüksek
+1984-01-01,Notre Dame Yangını,Fransa,Düşük
+1985-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1986-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1987-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1988-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1989-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1990-01-01,Brexit Referandumu,İngiltere,Orta
+1991-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1992-01-01,Katrina Kasırgası,ABD,Yüksek
+1993-01-01,Haiti Depremi,Haiti,Yüksek
+1994-01-01,Notre Dame Yangını,Fransa,Düşük
+1995-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1996-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1997-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1998-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1999-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2000-01-01,Brexit Referandumu,İngiltere,Orta
+2001-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2002-01-01,Katrina Kasırgası,ABD,Yüksek
+2003-01-01,Haiti Depremi,Haiti,Yüksek
+2004-01-01,Notre Dame Yangını,Fransa,Düşük
+2005-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2006-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2007-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2008-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2009-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2010-01-01,Brexit Referandumu,İngiltere,Orta
+2011-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2012-01-01,Katrina Kasırgası,ABD,Yüksek
+2013-01-01,Haiti Depremi,Haiti,Yüksek
+2014-01-01,Notre Dame Yangını,Fransa,Düşük
+2015-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2016-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2017-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2018-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2019-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2020-01-01,Brexit Referandumu,İngiltere,Orta
+2021-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2022-01-01,Katrina Kasırgası,ABD,Yüksek
+1950-01-01,Haiti Depremi,Haiti,Yüksek
+1951-01-01,Notre Dame Yangını,Fransa,Düşük
+1952-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1953-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1954-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1955-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1956-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1957-01-01,Brexit Referandumu,İngiltere,Orta
+1958-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1959-01-01,Katrina Kasırgası,ABD,Yüksek
+1960-01-01,Haiti Depremi,Haiti,Yüksek
+1961-01-01,Notre Dame Yangını,Fransa,Düşük
+1962-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1963-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1964-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1965-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1966-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1967-01-01,Brexit Referandumu,İngiltere,Orta
+1968-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1969-01-01,Katrina Kasırgası,ABD,Yüksek
+1970-01-01,Haiti Depremi,Haiti,Yüksek
+1971-01-01,Notre Dame Yangını,Fransa,Düşük
+1972-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1973-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1974-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1975-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1976-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1977-01-01,Brexit Referandumu,İngiltere,Orta
+1978-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1979-01-01,Katrina Kasırgası,ABD,Yüksek
+1980-01-01,Haiti Depremi,Haiti,Yüksek
+1981-01-01,Notre Dame Yangını,Fransa,Düşük
+1982-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1983-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1984-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1985-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1986-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1987-01-01,Brexit Referandumu,İngiltere,Orta
+1988-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1989-01-01,Katrina Kasırgası,ABD,Yüksek
+1990-01-01,Haiti Depremi,Haiti,Yüksek
+1991-01-01,Notre Dame Yangını,Fransa,Düşük
+1992-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1993-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1994-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1995-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1996-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1997-01-01,Brexit Referandumu,İngiltere,Orta
+1998-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1999-01-01,Katrina Kasırgası,ABD,Yüksek
+2000-01-01,Haiti Depremi,Haiti,Yüksek
+2001-01-01,Notre Dame Yangını,Fransa,Düşük
+2002-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2003-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2004-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2005-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2006-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2007-01-01,Brexit Referandumu,İngiltere,Orta
+2008-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2009-01-01,Katrina Kasırgası,ABD,Yüksek
+2010-01-01,Haiti Depremi,Haiti,Yüksek
+2011-01-01,Notre Dame Yangını,Fransa,Düşük
+2012-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2013-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2014-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2015-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2016-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2017-01-01,Brexit Referandumu,İngiltere,Orta
+2018-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2019-01-01,Katrina Kasırgası,ABD,Yüksek
+2020-01-01,Haiti Depremi,Haiti,Yüksek
+2021-01-01,Notre Dame Yangını,Fransa,Düşük
+2022-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1950-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1951-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1952-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1953-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1954-01-01,Brexit Referandumu,İngiltere,Orta
+1955-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1956-01-01,Katrina Kasırgası,ABD,Yüksek
+1957-01-01,Haiti Depremi,Haiti,Yüksek
+1958-01-01,Notre Dame Yangını,Fransa,Düşük
+1959-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1960-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1961-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1962-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1963-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1964-01-01,Brexit Referandumu,İngiltere,Orta
+1965-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1966-01-01,Katrina Kasırgası,ABD,Yüksek
+1967-01-01,Haiti Depremi,Haiti,Yüksek
+1968-01-01,Notre Dame Yangını,Fransa,Düşük
+1969-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1970-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1971-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1972-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1973-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1974-01-01,Brexit Referandumu,İngiltere,Orta
+1975-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1976-01-01,Katrina Kasırgası,ABD,Yüksek
+1977-01-01,Haiti Depremi,Haiti,Yüksek
+1978-01-01,Notre Dame Yangını,Fransa,Düşük
+1979-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1980-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1981-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1982-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1983-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1984-01-01,Brexit Referandumu,İngiltere,Orta
+1985-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1986-01-01,Katrina Kasırgası,ABD,Yüksek
+1987-01-01,Haiti Depremi,Haiti,Yüksek
+1988-01-01,Notre Dame Yangını,Fransa,Düşük
+1989-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1990-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1991-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1992-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1993-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1994-01-01,Brexit Referandumu,İngiltere,Orta
+1995-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1996-01-01,Katrina Kasırgası,ABD,Yüksek
+1997-01-01,Haiti Depremi,Haiti,Yüksek
+1998-01-01,Notre Dame Yangını,Fransa,Düşük
+1999-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2000-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2001-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2002-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2003-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2004-01-01,Brexit Referandumu,İngiltere,Orta
+2005-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2006-01-01,Katrina Kasırgası,ABD,Yüksek
+2007-01-01,Haiti Depremi,Haiti,Yüksek
+2008-01-01,Notre Dame Yangını,Fransa,Düşük
+2009-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2010-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2011-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2012-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2013-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2014-01-01,Brexit Referandumu,İngiltere,Orta
+2015-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2016-01-01,Katrina Kasırgası,ABD,Yüksek
+2017-01-01,Haiti Depremi,Haiti,Yüksek
+2018-01-01,Notre Dame Yangını,Fransa,Düşük
+2019-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2020-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2021-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2022-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1950-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1951-01-01,Brexit Referandumu,İngiltere,Orta
+1952-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1953-01-01,Katrina Kasırgası,ABD,Yüksek
+1954-01-01,Haiti Depremi,Haiti,Yüksek
+1955-01-01,Notre Dame Yangını,Fransa,Düşük
+1956-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1957-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1958-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1959-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1960-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1961-01-01,Brexit Referandumu,İngiltere,Orta
+1962-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1963-01-01,Katrina Kasırgası,ABD,Yüksek
+1964-01-01,Haiti Depremi,Haiti,Yüksek
+1965-01-01,Notre Dame Yangını,Fransa,Düşük
+1966-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1967-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1968-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1969-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1970-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1971-01-01,Brexit Referandumu,İngiltere,Orta
+1972-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1973-01-01,Katrina Kasırgası,ABD,Yüksek
+1974-01-01,Haiti Depremi,Haiti,Yüksek
+1975-01-01,Notre Dame Yangını,Fransa,Düşük
+1976-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1977-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1978-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1979-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1980-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1981-01-01,Brexit Referandumu,İngiltere,Orta
+1982-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1983-01-01,Katrina Kasırgası,ABD,Yüksek
+1984-01-01,Haiti Depremi,Haiti,Yüksek
+1985-01-01,Notre Dame Yangını,Fransa,Düşük
+1986-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1987-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1988-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1989-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1990-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1991-01-01,Brexit Referandumu,İngiltere,Orta
+1992-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1993-01-01,Katrina Kasırgası,ABD,Yüksek
+1994-01-01,Haiti Depremi,Haiti,Yüksek
+1995-01-01,Notre Dame Yangını,Fransa,Düşük
+1996-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1997-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1998-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1999-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2000-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2001-01-01,Brexit Referandumu,İngiltere,Orta
+2002-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2003-01-01,Katrina Kasırgası,ABD,Yüksek
+2004-01-01,Haiti Depremi,Haiti,Yüksek
+2005-01-01,Notre Dame Yangını,Fransa,Düşük
+2006-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2007-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2008-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2009-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2010-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2011-01-01,Brexit Referandumu,İngiltere,Orta
+2012-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2013-01-01,Katrina Kasırgası,ABD,Yüksek
+2014-01-01,Haiti Depremi,Haiti,Yüksek
+2015-01-01,Notre Dame Yangını,Fransa,Düşük
+2016-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2017-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2018-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2019-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2020-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2021-01-01,Brexit Referandumu,İngiltere,Orta
+2022-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1950-01-01,Katrina Kasırgası,ABD,Yüksek
+1951-01-01,Haiti Depremi,Haiti,Yüksek
+1952-01-01,Notre Dame Yangını,Fransa,Düşük
+1953-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1954-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1955-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1956-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1957-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1958-01-01,Brexit Referandumu,İngiltere,Orta
+1959-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1960-01-01,Katrina Kasırgası,ABD,Yüksek
+1961-01-01,Haiti Depremi,Haiti,Yüksek
+1962-01-01,Notre Dame Yangını,Fransa,Düşük
+1963-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1964-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1965-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1966-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1967-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1968-01-01,Brexit Referandumu,İngiltere,Orta
+1969-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1970-01-01,Katrina Kasırgası,ABD,Yüksek
+1971-01-01,Haiti Depremi,Haiti,Yüksek
+1972-01-01,Notre Dame Yangını,Fransa,Düşük
+1973-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1974-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1975-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1976-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1977-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1978-01-01,Brexit Referandumu,İngiltere,Orta
+1979-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1980-01-01,Katrina Kasırgası,ABD,Yüksek
+1981-01-01,Haiti Depremi,Haiti,Yüksek
+1982-01-01,Notre Dame Yangını,Fransa,Düşük
+1983-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1984-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1985-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1986-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1987-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1988-01-01,Brexit Referandumu,İngiltere,Orta
+1989-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1990-01-01,Katrina Kasırgası,ABD,Yüksek
+1991-01-01,Haiti Depremi,Haiti,Yüksek
+1992-01-01,Notre Dame Yangını,Fransa,Düşük
+1993-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1994-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1995-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1996-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1997-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1998-01-01,Brexit Referandumu,İngiltere,Orta
+1999-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2000-01-01,Katrina Kasırgası,ABD,Yüksek
+2001-01-01,Haiti Depremi,Haiti,Yüksek
+2002-01-01,Notre Dame Yangını,Fransa,Düşük
+2003-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2004-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2005-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2006-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2007-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2008-01-01,Brexit Referandumu,İngiltere,Orta
+2009-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2010-01-01,Katrina Kasırgası,ABD,Yüksek
+2011-01-01,Haiti Depremi,Haiti,Yüksek
+2012-01-01,Notre Dame Yangını,Fransa,Düşük
+2013-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2014-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2015-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2016-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2017-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2018-01-01,Brexit Referandumu,İngiltere,Orta
+2019-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2020-01-01,Katrina Kasırgası,ABD,Yüksek
+2021-01-01,Haiti Depremi,Haiti,Yüksek
+2022-01-01,Notre Dame Yangını,Fransa,Düşük
+1950-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1951-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1952-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1953-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1954-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1955-01-01,Brexit Referandumu,İngiltere,Orta
+1956-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1957-01-01,Katrina Kasırgası,ABD,Yüksek
+1958-01-01,Haiti Depremi,Haiti,Yüksek
+1959-01-01,Notre Dame Yangını,Fransa,Düşük
+1960-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1961-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1962-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1963-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1964-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1965-01-01,Brexit Referandumu,İngiltere,Orta
+1966-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1967-01-01,Katrina Kasırgası,ABD,Yüksek
+1968-01-01,Haiti Depremi,Haiti,Yüksek
+1969-01-01,Notre Dame Yangını,Fransa,Düşük
+1970-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1971-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1972-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1973-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1974-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1975-01-01,Brexit Referandumu,İngiltere,Orta
+1976-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1977-01-01,Katrina Kasırgası,ABD,Yüksek
+1978-01-01,Haiti Depremi,Haiti,Yüksek
+1979-01-01,Notre Dame Yangını,Fransa,Düşük
+1980-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1981-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1982-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1983-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1984-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1985-01-01,Brexit Referandumu,İngiltere,Orta
+1986-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1987-01-01,Katrina Kasırgası,ABD,Yüksek
+1988-01-01,Haiti Depremi,Haiti,Yüksek
+1989-01-01,Notre Dame Yangını,Fransa,Düşük
+1990-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1991-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1992-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1993-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1994-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1995-01-01,Brexit Referandumu,İngiltere,Orta
+1996-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1997-01-01,Katrina Kasırgası,ABD,Yüksek
+1998-01-01,Haiti Depremi,Haiti,Yüksek
+1999-01-01,Notre Dame Yangını,Fransa,Düşük
+2000-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2001-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2002-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2003-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2004-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2005-01-01,Brexit Referandumu,İngiltere,Orta
+2006-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2007-01-01,Katrina Kasırgası,ABD,Yüksek
+2008-01-01,Haiti Depremi,Haiti,Yüksek
+2009-01-01,Notre Dame Yangını,Fransa,Düşük
+2010-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2011-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2012-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2013-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2014-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2015-01-01,Brexit Referandumu,İngiltere,Orta
+2016-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2017-01-01,Katrina Kasırgası,ABD,Yüksek
+2018-01-01,Haiti Depremi,Haiti,Yüksek
+2019-01-01,Notre Dame Yangını,Fransa,Düşük
+2020-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2021-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2022-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1950-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1951-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1952-01-01,Brexit Referandumu,İngiltere,Orta
+1953-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1954-01-01,Katrina Kasırgası,ABD,Yüksek
+1955-01-01,Haiti Depremi,Haiti,Yüksek
+1956-01-01,Notre Dame Yangını,Fransa,Düşük
+1957-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1958-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1959-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1960-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1961-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1962-01-01,Brexit Referandumu,İngiltere,Orta
+1963-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1964-01-01,Katrina Kasırgası,ABD,Yüksek
+1965-01-01,Haiti Depremi,Haiti,Yüksek
+1966-01-01,Notre Dame Yangını,Fransa,Düşük
+1967-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1968-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1969-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1970-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1971-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1972-01-01,Brexit Referandumu,İngiltere,Orta
+1973-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1974-01-01,Katrina Kasırgası,ABD,Yüksek
+1975-01-01,Haiti Depremi,Haiti,Yüksek
+1976-01-01,Notre Dame Yangını,Fransa,Düşük
+1977-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1978-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1979-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1980-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1981-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1982-01-01,Brexit Referandumu,İngiltere,Orta
+1983-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1984-01-01,Katrina Kasırgası,ABD,Yüksek
+1985-01-01,Haiti Depremi,Haiti,Yüksek
+1986-01-01,Notre Dame Yangını,Fransa,Düşük
+1987-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1988-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1989-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1990-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1991-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1992-01-01,Brexit Referandumu,İngiltere,Orta
+1993-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1994-01-01,Katrina Kasırgası,ABD,Yüksek
+1995-01-01,Haiti Depremi,Haiti,Yüksek
+1996-01-01,Notre Dame Yangını,Fransa,Düşük
+1997-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1998-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1999-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2000-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2001-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2002-01-01,Brexit Referandumu,İngiltere,Orta
+2003-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2004-01-01,Katrina Kasırgası,ABD,Yüksek
+2005-01-01,Haiti Depremi,Haiti,Yüksek
+2006-01-01,Notre Dame Yangını,Fransa,Düşük
+2007-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2008-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2009-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2010-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2011-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2012-01-01,Brexit Referandumu,İngiltere,Orta
+2013-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2014-01-01,Katrina Kasırgası,ABD,Yüksek
+2015-01-01,Haiti Depremi,Haiti,Yüksek
+2016-01-01,Notre Dame Yangını,Fransa,Düşük
+2017-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2018-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2019-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2020-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2021-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2022-01-01,Brexit Referandumu,İngiltere,Orta
+1950-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1951-01-01,Katrina Kasırgası,ABD,Yüksek
+1952-01-01,Haiti Depremi,Haiti,Yüksek
+1953-01-01,Notre Dame Yangını,Fransa,Düşük
+1954-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1955-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1956-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1957-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1958-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1959-01-01,Brexit Referandumu,İngiltere,Orta
+1960-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1961-01-01,Katrina Kasırgası,ABD,Yüksek
+1962-01-01,Haiti Depremi,Haiti,Yüksek
+1963-01-01,Notre Dame Yangını,Fransa,Düşük
+1964-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1965-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1966-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1967-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1968-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1969-01-01,Brexit Referandumu,İngiltere,Orta
+1970-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1971-01-01,Katrina Kasırgası,ABD,Yüksek
+1972-01-01,Haiti Depremi,Haiti,Yüksek
+1973-01-01,Notre Dame Yangını,Fransa,Düşük
+1974-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1975-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1976-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1977-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1978-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1979-01-01,Brexit Referandumu,İngiltere,Orta
+1980-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1981-01-01,Katrina Kasırgası,ABD,Yüksek
+1982-01-01,Haiti Depremi,Haiti,Yüksek
+1983-01-01,Notre Dame Yangını,Fransa,Düşük
+1984-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1985-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1986-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1987-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1988-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1989-01-01,Brexit Referandumu,İngiltere,Orta
+1990-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1991-01-01,Katrina Kasırgası,ABD,Yüksek
+1992-01-01,Haiti Depremi,Haiti,Yüksek
+1993-01-01,Notre Dame Yangını,Fransa,Düşük
+1994-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1995-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1996-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1997-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1998-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1999-01-01,Brexit Referandumu,İngiltere,Orta
+2000-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2001-01-01,Katrina Kasırgası,ABD,Yüksek
+2002-01-01,Haiti Depremi,Haiti,Yüksek
+2003-01-01,Notre Dame Yangını,Fransa,Düşük
+2004-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2005-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2006-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2007-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2008-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2009-01-01,Brexit Referandumu,İngiltere,Orta
+2010-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2011-01-01,Katrina Kasırgası,ABD,Yüksek
+2012-01-01,Haiti Depremi,Haiti,Yüksek
+2013-01-01,Notre Dame Yangını,Fransa,Düşük
+2014-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2015-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2016-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2017-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2018-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2019-01-01,Brexit Referandumu,İngiltere,Orta
+2020-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2021-01-01,Katrina Kasırgası,ABD,Yüksek
+2022-01-01,Haiti Depremi,Haiti,Yüksek
+1950-01-01,Notre Dame Yangını,Fransa,Düşük
+1951-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1952-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1953-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1954-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1955-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1956-01-01,Brexit Referandumu,İngiltere,Orta
+1957-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1958-01-01,Katrina Kasırgası,ABD,Yüksek
+1959-01-01,Haiti Depremi,Haiti,Yüksek
+1960-01-01,Notre Dame Yangını,Fransa,Düşük
+1961-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1962-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1963-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1964-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1965-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1966-01-01,Brexit Referandumu,İngiltere,Orta
+1967-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1968-01-01,Katrina Kasırgası,ABD,Yüksek
+1969-01-01,Haiti Depremi,Haiti,Yüksek
+1970-01-01,Notre Dame Yangını,Fransa,Düşük
+1971-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1972-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1973-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1974-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1975-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1976-01-01,Brexit Referandumu,İngiltere,Orta
+1977-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1978-01-01,Katrina Kasırgası,ABD,Yüksek
+1979-01-01,Haiti Depremi,Haiti,Yüksek
+1980-01-01,Notre Dame Yangını,Fransa,Düşük
+1981-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1982-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1983-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1984-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1985-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1986-01-01,Brexit Referandumu,İngiltere,Orta
+1987-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1988-01-01,Katrina Kasırgası,ABD,Yüksek
+1989-01-01,Haiti Depremi,Haiti,Yüksek
+1990-01-01,Notre Dame Yangını,Fransa,Düşük
+1991-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1992-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1993-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1994-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1995-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1996-01-01,Brexit Referandumu,İngiltere,Orta
+1997-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1998-01-01,Katrina Kasırgası,ABD,Yüksek
+1999-01-01,Haiti Depremi,Haiti,Yüksek
+2000-01-01,Notre Dame Yangını,Fransa,Düşük
+2001-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2002-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2003-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2004-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2005-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2006-01-01,Brexit Referandumu,İngiltere,Orta
+2007-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2008-01-01,Katrina Kasırgası,ABD,Yüksek
+2009-01-01,Haiti Depremi,Haiti,Yüksek
+2010-01-01,Notre Dame Yangını,Fransa,Düşük
+2011-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2012-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2013-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2014-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2015-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2016-01-01,Brexit Referandumu,İngiltere,Orta
+2017-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2018-01-01,Katrina Kasırgası,ABD,Yüksek
+2019-01-01,Haiti Depremi,Haiti,Yüksek
+2020-01-01,Notre Dame Yangını,Fransa,Düşük
+2021-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2022-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1950-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1951-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1952-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1953-01-01,Brexit Referandumu,İngiltere,Orta
+1954-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1955-01-01,Katrina Kasırgası,ABD,Yüksek
+1956-01-01,Haiti Depremi,Haiti,Yüksek
+1957-01-01,Notre Dame Yangını,Fransa,Düşük
+1958-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1959-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1960-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1961-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1962-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1963-01-01,Brexit Referandumu,İngiltere,Orta
+1964-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1965-01-01,Katrina Kasırgası,ABD,Yüksek
+1966-01-01,Haiti Depremi,Haiti,Yüksek
+1967-01-01,Notre Dame Yangını,Fransa,Düşük
+1968-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1969-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1970-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1971-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1972-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1973-01-01,Brexit Referandumu,İngiltere,Orta
+1974-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1975-01-01,Katrina Kasırgası,ABD,Yüksek
+1976-01-01,Haiti Depremi,Haiti,Yüksek
+1977-01-01,Notre Dame Yangını,Fransa,Düşük
+1978-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1979-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1980-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1981-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1982-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1983-01-01,Brexit Referandumu,İngiltere,Orta
+1984-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1985-01-01,Katrina Kasırgası,ABD,Yüksek
+1986-01-01,Haiti Depremi,Haiti,Yüksek
+1987-01-01,Notre Dame Yangını,Fransa,Düşük
+1988-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1989-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1990-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1991-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1992-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1993-01-01,Brexit Referandumu,İngiltere,Orta
+1994-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1995-01-01,Katrina Kasırgası,ABD,Yüksek
+1996-01-01,Haiti Depremi,Haiti,Yüksek
+1997-01-01,Notre Dame Yangını,Fransa,Düşük
+1998-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1999-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2000-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2001-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2002-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2003-01-01,Brexit Referandumu,İngiltere,Orta
+2004-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2005-01-01,Katrina Kasırgası,ABD,Yüksek
+2006-01-01,Haiti Depremi,Haiti,Yüksek
+2007-01-01,Notre Dame Yangını,Fransa,Düşük
+2008-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2009-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2010-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2011-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2012-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2013-01-01,Brexit Referandumu,İngiltere,Orta
+2014-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2015-01-01,Katrina Kasırgası,ABD,Yüksek
+2016-01-01,Haiti Depremi,Haiti,Yüksek
+2017-01-01,Notre Dame Yangını,Fransa,Düşük
+2018-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2019-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2020-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2021-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2022-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1950-01-01,Brexit Referandumu,İngiltere,Orta
+1951-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1952-01-01,Katrina Kasırgası,ABD,Yüksek
+1953-01-01,Haiti Depremi,Haiti,Yüksek
+1954-01-01,Notre Dame Yangını,Fransa,Düşük
+1955-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1956-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1957-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1958-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1959-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1960-01-01,Brexit Referandumu,İngiltere,Orta
+1961-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1962-01-01,Katrina Kasırgası,ABD,Yüksek
+1963-01-01,Haiti Depremi,Haiti,Yüksek
+1964-01-01,Notre Dame Yangını,Fransa,Düşük
+1965-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1966-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1967-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1968-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1969-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1970-01-01,Brexit Referandumu,İngiltere,Orta
+1971-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1972-01-01,Katrina Kasırgası,ABD,Yüksek
+1973-01-01,Haiti Depremi,Haiti,Yüksek
+1974-01-01,Notre Dame Yangını,Fransa,Düşük
+1975-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1976-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1977-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1978-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1979-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1980-01-01,Brexit Referandumu,İngiltere,Orta
+1981-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1982-01-01,Katrina Kasırgası,ABD,Yüksek
+1983-01-01,Haiti Depremi,Haiti,Yüksek
+1984-01-01,Notre Dame Yangını,Fransa,Düşük
+1985-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1986-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1987-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1988-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1989-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1990-01-01,Brexit Referandumu,İngiltere,Orta
+1991-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1992-01-01,Katrina Kasırgası,ABD,Yüksek
+1993-01-01,Haiti Depremi,Haiti,Yüksek
+1994-01-01,Notre Dame Yangını,Fransa,Düşük
+1995-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1996-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1997-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1998-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1999-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2000-01-01,Brexit Referandumu,İngiltere,Orta
+2001-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2002-01-01,Katrina Kasırgası,ABD,Yüksek
+2003-01-01,Haiti Depremi,Haiti,Yüksek
+2004-01-01,Notre Dame Yangını,Fransa,Düşük
+2005-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2006-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2007-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2008-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2009-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2010-01-01,Brexit Referandumu,İngiltere,Orta
+2011-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2012-01-01,Katrina Kasırgası,ABD,Yüksek
+2013-01-01,Haiti Depremi,Haiti,Yüksek
+2014-01-01,Notre Dame Yangını,Fransa,Düşük
+2015-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2016-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2017-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2018-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2019-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2020-01-01,Brexit Referandumu,İngiltere,Orta
+2021-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2022-01-01,Katrina Kasırgası,ABD,Yüksek
+1950-01-01,Haiti Depremi,Haiti,Yüksek
+1951-01-01,Notre Dame Yangını,Fransa,Düşük
+1952-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1953-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1954-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1955-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1956-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1957-01-01,Brexit Referandumu,İngiltere,Orta
+1958-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1959-01-01,Katrina Kasırgası,ABD,Yüksek
+1960-01-01,Haiti Depremi,Haiti,Yüksek
+1961-01-01,Notre Dame Yangını,Fransa,Düşük
+1962-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1963-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1964-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1965-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1966-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1967-01-01,Brexit Referandumu,İngiltere,Orta
+1968-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1969-01-01,Katrina Kasırgası,ABD,Yüksek
+1970-01-01,Haiti Depremi,Haiti,Yüksek
+1971-01-01,Notre Dame Yangını,Fransa,Düşük
+1972-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1973-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1974-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1975-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1976-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1977-01-01,Brexit Referandumu,İngiltere,Orta
+1978-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1979-01-01,Katrina Kasırgası,ABD,Yüksek
+1980-01-01,Haiti Depremi,Haiti,Yüksek
+1981-01-01,Notre Dame Yangını,Fransa,Düşük
+1982-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1983-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1984-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1985-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1986-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1987-01-01,Brexit Referandumu,İngiltere,Orta
+1988-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1989-01-01,Katrina Kasırgası,ABD,Yüksek
+1990-01-01,Haiti Depremi,Haiti,Yüksek
+1991-01-01,Notre Dame Yangını,Fransa,Düşük
+1992-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1993-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1994-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1995-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1996-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1997-01-01,Brexit Referandumu,İngiltere,Orta
+1998-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1999-01-01,Katrina Kasırgası,ABD,Yüksek
+2000-01-01,Haiti Depremi,Haiti,Yüksek
+2001-01-01,Notre Dame Yangını,Fransa,Düşük
+2002-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2003-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2004-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2005-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2006-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2007-01-01,Brexit Referandumu,İngiltere,Orta
+2008-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2009-01-01,Katrina Kasırgası,ABD,Yüksek
+2010-01-01,Haiti Depremi,Haiti,Yüksek
+2011-01-01,Notre Dame Yangını,Fransa,Düşük
+2012-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2013-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2014-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2015-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2016-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2017-01-01,Brexit Referandumu,İngiltere,Orta
+2018-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2019-01-01,Katrina Kasırgası,ABD,Yüksek
+2020-01-01,Haiti Depremi,Haiti,Yüksek
+2021-01-01,Notre Dame Yangını,Fransa,Düşük
+2022-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1950-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1951-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1952-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1953-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1954-01-01,Brexit Referandumu,İngiltere,Orta
+1955-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1956-01-01,Katrina Kasırgası,ABD,Yüksek
+1957-01-01,Haiti Depremi,Haiti,Yüksek
+1958-01-01,Notre Dame Yangını,Fransa,Düşük
+1959-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1960-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1961-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1962-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1963-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1964-01-01,Brexit Referandumu,İngiltere,Orta
+1965-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1966-01-01,Katrina Kasırgası,ABD,Yüksek
+1967-01-01,Haiti Depremi,Haiti,Yüksek
+1968-01-01,Notre Dame Yangını,Fransa,Düşük
+1969-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1970-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1971-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1972-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1973-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1974-01-01,Brexit Referandumu,İngiltere,Orta
+1975-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1976-01-01,Katrina Kasırgası,ABD,Yüksek
+1977-01-01,Haiti Depremi,Haiti,Yüksek
+1978-01-01,Notre Dame Yangını,Fransa,Düşük
+1979-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1980-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1981-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1982-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1983-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1984-01-01,Brexit Referandumu,İngiltere,Orta
+1985-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1986-01-01,Katrina Kasırgası,ABD,Yüksek
+1987-01-01,Haiti Depremi,Haiti,Yüksek
+1988-01-01,Notre Dame Yangını,Fransa,Düşük
+1989-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1990-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1991-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1992-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1993-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1994-01-01,Brexit Referandumu,İngiltere,Orta
+1995-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1996-01-01,Katrina Kasırgası,ABD,Yüksek
+1997-01-01,Haiti Depremi,Haiti,Yüksek
+1998-01-01,Notre Dame Yangını,Fransa,Düşük
+1999-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2000-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2001-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2002-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2003-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2004-01-01,Brexit Referandumu,İngiltere,Orta
+2005-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2006-01-01,Katrina Kasırgası,ABD,Yüksek
+2007-01-01,Haiti Depremi,Haiti,Yüksek
+2008-01-01,Notre Dame Yangını,Fransa,Düşük
+2009-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2010-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2011-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2012-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2013-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2014-01-01,Brexit Referandumu,İngiltere,Orta
+2015-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2016-01-01,Katrina Kasırgası,ABD,Yüksek
+2017-01-01,Haiti Depremi,Haiti,Yüksek
+2018-01-01,Notre Dame Yangını,Fransa,Düşük
+2019-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2020-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2021-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2022-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1950-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1951-01-01,Brexit Referandumu,İngiltere,Orta
+1952-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1953-01-01,Katrina Kasırgası,ABD,Yüksek
+1954-01-01,Haiti Depremi,Haiti,Yüksek
+1955-01-01,Notre Dame Yangını,Fransa,Düşük
+1956-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1957-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1958-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1959-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1960-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1961-01-01,Brexit Referandumu,İngiltere,Orta
+1962-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1963-01-01,Katrina Kasırgası,ABD,Yüksek
+1964-01-01,Haiti Depremi,Haiti,Yüksek
+1965-01-01,Notre Dame Yangını,Fransa,Düşük
+1966-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1967-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1968-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1969-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1970-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1971-01-01,Brexit Referandumu,İngiltere,Orta
+1972-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1973-01-01,Katrina Kasırgası,ABD,Yüksek
+1974-01-01,Haiti Depremi,Haiti,Yüksek
+1975-01-01,Notre Dame Yangını,Fransa,Düşük
+1976-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1977-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1978-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1979-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1980-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1981-01-01,Brexit Referandumu,İngiltere,Orta
+1982-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1983-01-01,Katrina Kasırgası,ABD,Yüksek
+1984-01-01,Haiti Depremi,Haiti,Yüksek
+1985-01-01,Notre Dame Yangını,Fransa,Düşük
+1986-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1987-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1988-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1989-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1990-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1991-01-01,Brexit Referandumu,İngiltere,Orta
+1992-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1993-01-01,Katrina Kasırgası,ABD,Yüksek
+1994-01-01,Haiti Depremi,Haiti,Yüksek
+1995-01-01,Notre Dame Yangını,Fransa,Düşük
+1996-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1997-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1998-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1999-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2000-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2001-01-01,Brexit Referandumu,İngiltere,Orta
+2002-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2003-01-01,Katrina Kasırgası,ABD,Yüksek
+2004-01-01,Haiti Depremi,Haiti,Yüksek
+2005-01-01,Notre Dame Yangını,Fransa,Düşük
+2006-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2007-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2008-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2009-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2010-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2011-01-01,Brexit Referandumu,İngiltere,Orta
+2012-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2013-01-01,Katrina Kasırgası,ABD,Yüksek
+2014-01-01,Haiti Depremi,Haiti,Yüksek
+2015-01-01,Notre Dame Yangını,Fransa,Düşük
+2016-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2017-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2018-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2019-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2020-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2021-01-01,Brexit Referandumu,İngiltere,Orta
+2022-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1950-01-01,Katrina Kasırgası,ABD,Yüksek
+1951-01-01,Haiti Depremi,Haiti,Yüksek
+1952-01-01,Notre Dame Yangını,Fransa,Düşük
+1953-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1954-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1955-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1956-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1957-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1958-01-01,Brexit Referandumu,İngiltere,Orta
+1959-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1960-01-01,Katrina Kasırgası,ABD,Yüksek
+1961-01-01,Haiti Depremi,Haiti,Yüksek
+1962-01-01,Notre Dame Yangını,Fransa,Düşük
+1963-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1964-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1965-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1966-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1967-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1968-01-01,Brexit Referandumu,İngiltere,Orta
+1969-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1970-01-01,Katrina Kasırgası,ABD,Yüksek
+1971-01-01,Haiti Depremi,Haiti,Yüksek
+1972-01-01,Notre Dame Yangını,Fransa,Düşük
+1973-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1974-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1975-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1976-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1977-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1978-01-01,Brexit Referandumu,İngiltere,Orta
+1979-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1980-01-01,Katrina Kasırgası,ABD,Yüksek
+1981-01-01,Haiti Depremi,Haiti,Yüksek
+1982-01-01,Notre Dame Yangını,Fransa,Düşük
+1983-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1984-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1985-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1986-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1987-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1988-01-01,Brexit Referandumu,İngiltere,Orta
+1989-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1990-01-01,Katrina Kasırgası,ABD,Yüksek
+1991-01-01,Haiti Depremi,Haiti,Yüksek
+1992-01-01,Notre Dame Yangını,Fransa,Düşük
+1993-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1994-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1995-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1996-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1997-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1998-01-01,Brexit Referandumu,İngiltere,Orta
+1999-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2000-01-01,Katrina Kasırgası,ABD,Yüksek
+2001-01-01,Haiti Depremi,Haiti,Yüksek
+2002-01-01,Notre Dame Yangını,Fransa,Düşük
+2003-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2004-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2005-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2006-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2007-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2008-01-01,Brexit Referandumu,İngiltere,Orta
+2009-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2010-01-01,Katrina Kasırgası,ABD,Yüksek
+2011-01-01,Haiti Depremi,Haiti,Yüksek
+2012-01-01,Notre Dame Yangını,Fransa,Düşük
+2013-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2014-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2015-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2016-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2017-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2018-01-01,Brexit Referandumu,İngiltere,Orta
+2019-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2020-01-01,Katrina Kasırgası,ABD,Yüksek
+2021-01-01,Haiti Depremi,Haiti,Yüksek
+2022-01-01,Notre Dame Yangını,Fransa,Düşük
+1950-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1951-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1952-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1953-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1954-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1955-01-01,Brexit Referandumu,İngiltere,Orta
+1956-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1957-01-01,Katrina Kasırgası,ABD,Yüksek
+1958-01-01,Haiti Depremi,Haiti,Yüksek
+1959-01-01,Notre Dame Yangını,Fransa,Düşük
+1960-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1961-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1962-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1963-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1964-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1965-01-01,Brexit Referandumu,İngiltere,Orta
+1966-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1967-01-01,Katrina Kasırgası,ABD,Yüksek
+1968-01-01,Haiti Depremi,Haiti,Yüksek
+1969-01-01,Notre Dame Yangını,Fransa,Düşük
+1970-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1971-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1972-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1973-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1974-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1975-01-01,Brexit Referandumu,İngiltere,Orta
+1976-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1977-01-01,Katrina Kasırgası,ABD,Yüksek
+1978-01-01,Haiti Depremi,Haiti,Yüksek
+1979-01-01,Notre Dame Yangını,Fransa,Düşük
+1980-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1981-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1982-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1983-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1984-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1985-01-01,Brexit Referandumu,İngiltere,Orta
+1986-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1987-01-01,Katrina Kasırgası,ABD,Yüksek
+1988-01-01,Haiti Depremi,Haiti,Yüksek
+1989-01-01,Notre Dame Yangını,Fransa,Düşük
+1990-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1991-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1992-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1993-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1994-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1995-01-01,Brexit Referandumu,İngiltere,Orta
+1996-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1997-01-01,Katrina Kasırgası,ABD,Yüksek
+1998-01-01,Haiti Depremi,Haiti,Yüksek
+1999-01-01,Notre Dame Yangını,Fransa,Düşük
+2000-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2001-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2002-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2003-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2004-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2005-01-01,Brexit Referandumu,İngiltere,Orta
+2006-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2007-01-01,Katrina Kasırgası,ABD,Yüksek
+2008-01-01,Haiti Depremi,Haiti,Yüksek
+2009-01-01,Notre Dame Yangını,Fransa,Düşük
+2010-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2011-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2012-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2013-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2014-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2015-01-01,Brexit Referandumu,İngiltere,Orta
+2016-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2017-01-01,Katrina Kasırgası,ABD,Yüksek
+2018-01-01,Haiti Depremi,Haiti,Yüksek
+2019-01-01,Notre Dame Yangını,Fransa,Düşük
+2020-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2021-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2022-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1950-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1951-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1952-01-01,Brexit Referandumu,İngiltere,Orta
+1953-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1954-01-01,Katrina Kasırgası,ABD,Yüksek
+1955-01-01,Haiti Depremi,Haiti,Yüksek
+1956-01-01,Notre Dame Yangını,Fransa,Düşük
+1957-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1958-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1959-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1960-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1961-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1962-01-01,Brexit Referandumu,İngiltere,Orta
+1963-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1964-01-01,Katrina Kasırgası,ABD,Yüksek
+1965-01-01,Haiti Depremi,Haiti,Yüksek
+1966-01-01,Notre Dame Yangını,Fransa,Düşük
+1967-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1968-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1969-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1970-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1971-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1972-01-01,Brexit Referandumu,İngiltere,Orta
+1973-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1974-01-01,Katrina Kasırgası,ABD,Yüksek
+1975-01-01,Haiti Depremi,Haiti,Yüksek
+1976-01-01,Notre Dame Yangını,Fransa,Düşük
+1977-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1978-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1979-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1980-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1981-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1982-01-01,Brexit Referandumu,İngiltere,Orta
+1983-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1984-01-01,Katrina Kasırgası,ABD,Yüksek
+1985-01-01,Haiti Depremi,Haiti,Yüksek
+1986-01-01,Notre Dame Yangını,Fransa,Düşük
+1987-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1988-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1989-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1990-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1991-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1992-01-01,Brexit Referandumu,İngiltere,Orta
+1993-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1994-01-01,Katrina Kasırgası,ABD,Yüksek
+1995-01-01,Haiti Depremi,Haiti,Yüksek
+1996-01-01,Notre Dame Yangını,Fransa,Düşük
+1997-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1998-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1999-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2000-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2001-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2002-01-01,Brexit Referandumu,İngiltere,Orta
+2003-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2004-01-01,Katrina Kasırgası,ABD,Yüksek
+2005-01-01,Haiti Depremi,Haiti,Yüksek
+2006-01-01,Notre Dame Yangını,Fransa,Düşük
+2007-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2008-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2009-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2010-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2011-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2012-01-01,Brexit Referandumu,İngiltere,Orta
+2013-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2014-01-01,Katrina Kasırgası,ABD,Yüksek
+2015-01-01,Haiti Depremi,Haiti,Yüksek
+2016-01-01,Notre Dame Yangını,Fransa,Düşük
+2017-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2018-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2019-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2020-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2021-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2022-01-01,Brexit Referandumu,İngiltere,Orta
+1950-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1951-01-01,Katrina Kasırgası,ABD,Yüksek
+1952-01-01,Haiti Depremi,Haiti,Yüksek
+1953-01-01,Notre Dame Yangını,Fransa,Düşük
+1954-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1955-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1956-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1957-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1958-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1959-01-01,Brexit Referandumu,İngiltere,Orta
+1960-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1961-01-01,Katrina Kasırgası,ABD,Yüksek
+1962-01-01,Haiti Depremi,Haiti,Yüksek
+1963-01-01,Notre Dame Yangını,Fransa,Düşük
+1964-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1965-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1966-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1967-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1968-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1969-01-01,Brexit Referandumu,İngiltere,Orta
+1970-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1971-01-01,Katrina Kasırgası,ABD,Yüksek
+1972-01-01,Haiti Depremi,Haiti,Yüksek
+1973-01-01,Notre Dame Yangını,Fransa,Düşük
+1974-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1975-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1976-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1977-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1978-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1979-01-01,Brexit Referandumu,İngiltere,Orta
+1980-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1981-01-01,Katrina Kasırgası,ABD,Yüksek
+1982-01-01,Haiti Depremi,Haiti,Yüksek
+1983-01-01,Notre Dame Yangını,Fransa,Düşük
+1984-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1985-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1986-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1987-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1988-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1989-01-01,Brexit Referandumu,İngiltere,Orta
+1990-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1991-01-01,Katrina Kasırgası,ABD,Yüksek
+1992-01-01,Haiti Depremi,Haiti,Yüksek
+1993-01-01,Notre Dame Yangını,Fransa,Düşük
+1994-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1995-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1996-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1997-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1998-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1999-01-01,Brexit Referandumu,İngiltere,Orta
+2000-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2001-01-01,Katrina Kasırgası,ABD,Yüksek
+2002-01-01,Haiti Depremi,Haiti,Yüksek
+2003-01-01,Notre Dame Yangını,Fransa,Düşük
+2004-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2005-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2006-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2007-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2008-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2009-01-01,Brexit Referandumu,İngiltere,Orta
+2010-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2011-01-01,Katrina Kasırgası,ABD,Yüksek
+2012-01-01,Haiti Depremi,Haiti,Yüksek
+2013-01-01,Notre Dame Yangını,Fransa,Düşük
+2014-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2015-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2016-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2017-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2018-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2019-01-01,Brexit Referandumu,İngiltere,Orta
+2020-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2021-01-01,Katrina Kasırgası,ABD,Yüksek
+2022-01-01,Haiti Depremi,Haiti,Yüksek
+1950-01-01,Notre Dame Yangını,Fransa,Düşük
+1951-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1952-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1953-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1954-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1955-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1956-01-01,Brexit Referandumu,İngiltere,Orta
+1957-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1958-01-01,Katrina Kasırgası,ABD,Yüksek
+1959-01-01,Haiti Depremi,Haiti,Yüksek
+1960-01-01,Notre Dame Yangını,Fransa,Düşük
+1961-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1962-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1963-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1964-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1965-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1966-01-01,Brexit Referandumu,İngiltere,Orta
+1967-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1968-01-01,Katrina Kasırgası,ABD,Yüksek
+1969-01-01,Haiti Depremi,Haiti,Yüksek
+1970-01-01,Notre Dame Yangını,Fransa,Düşük
+1971-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1972-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1973-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1974-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1975-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1976-01-01,Brexit Referandumu,İngiltere,Orta
+1977-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1978-01-01,Katrina Kasırgası,ABD,Yüksek
+1979-01-01,Haiti Depremi,Haiti,Yüksek
+1980-01-01,Notre Dame Yangını,Fransa,Düşük
+1981-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1982-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1983-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1984-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1985-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1986-01-01,Brexit Referandumu,İngiltere,Orta
+1987-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1988-01-01,Katrina Kasırgası,ABD,Yüksek
+1989-01-01,Haiti Depremi,Haiti,Yüksek
+1990-01-01,Notre Dame Yangını,Fransa,Düşük
+1991-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1992-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1993-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1994-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1995-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1996-01-01,Brexit Referandumu,İngiltere,Orta
+1997-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1998-01-01,Katrina Kasırgası,ABD,Yüksek
+1999-01-01,Haiti Depremi,Haiti,Yüksek
+2000-01-01,Notre Dame Yangını,Fransa,Düşük
+2001-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2002-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2003-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2004-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2005-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2006-01-01,Brexit Referandumu,İngiltere,Orta
+2007-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2008-01-01,Katrina Kasırgası,ABD,Yüksek
+2009-01-01,Haiti Depremi,Haiti,Yüksek
+2010-01-01,Notre Dame Yangını,Fransa,Düşük
+2011-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2012-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2013-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2014-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2015-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2016-01-01,Brexit Referandumu,İngiltere,Orta
+2017-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2018-01-01,Katrina Kasırgası,ABD,Yüksek
+2019-01-01,Haiti Depremi,Haiti,Yüksek
+2020-01-01,Notre Dame Yangını,Fransa,Düşük
+2021-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2022-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1950-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1951-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1952-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1953-01-01,Brexit Referandumu,İngiltere,Orta
+1954-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1955-01-01,Katrina Kasırgası,ABD,Yüksek
+1956-01-01,Haiti Depremi,Haiti,Yüksek
+1957-01-01,Notre Dame Yangını,Fransa,Düşük
+1958-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1959-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1960-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1961-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1962-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1963-01-01,Brexit Referandumu,İngiltere,Orta
+1964-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1965-01-01,Katrina Kasırgası,ABD,Yüksek
+1966-01-01,Haiti Depremi,Haiti,Yüksek
+1967-01-01,Notre Dame Yangını,Fransa,Düşük
+1968-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1969-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1970-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1971-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1972-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1973-01-01,Brexit Referandumu,İngiltere,Orta
+1974-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1975-01-01,Katrina Kasırgası,ABD,Yüksek
+1976-01-01,Haiti Depremi,Haiti,Yüksek
+1977-01-01,Notre Dame Yangını,Fransa,Düşük
+1978-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1979-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1980-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1981-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1982-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1983-01-01,Brexit Referandumu,İngiltere,Orta
+1984-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1985-01-01,Katrina Kasırgası,ABD,Yüksek
+1986-01-01,Haiti Depremi,Haiti,Yüksek
+1987-01-01,Notre Dame Yangını,Fransa,Düşük
+1988-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1989-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1990-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1991-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1992-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1993-01-01,Brexit Referandumu,İngiltere,Orta
+1994-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1995-01-01,Katrina Kasırgası,ABD,Yüksek
+1996-01-01,Haiti Depremi,Haiti,Yüksek
+1997-01-01,Notre Dame Yangını,Fransa,Düşük
+1998-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1999-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2000-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2001-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2002-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2003-01-01,Brexit Referandumu,İngiltere,Orta
+2004-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2005-01-01,Katrina Kasırgası,ABD,Yüksek
+2006-01-01,Haiti Depremi,Haiti,Yüksek
+2007-01-01,Notre Dame Yangını,Fransa,Düşük
+2008-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2009-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2010-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2011-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2012-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2013-01-01,Brexit Referandumu,İngiltere,Orta
+2014-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2015-01-01,Katrina Kasırgası,ABD,Yüksek
+2016-01-01,Haiti Depremi,Haiti,Yüksek
+2017-01-01,Notre Dame Yangını,Fransa,Düşük
+2018-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2019-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2020-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2021-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2022-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1950-01-01,Brexit Referandumu,İngiltere,Orta
+1951-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1952-01-01,Katrina Kasırgası,ABD,Yüksek
+1953-01-01,Haiti Depremi,Haiti,Yüksek
+1954-01-01,Notre Dame Yangını,Fransa,Düşük
+1955-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1956-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1957-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1958-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1959-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1960-01-01,Brexit Referandumu,İngiltere,Orta
+1961-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1962-01-01,Katrina Kasırgası,ABD,Yüksek
+1963-01-01,Haiti Depremi,Haiti,Yüksek
+1964-01-01,Notre Dame Yangını,Fransa,Düşük
+1965-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1966-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1967-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1968-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1969-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1970-01-01,Brexit Referandumu,İngiltere,Orta
+1971-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1972-01-01,Katrina Kasırgası,ABD,Yüksek
+1973-01-01,Haiti Depremi,Haiti,Yüksek
+1974-01-01,Notre Dame Yangını,Fransa,Düşük
+1975-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1976-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1977-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1978-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1979-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1980-01-01,Brexit Referandumu,İngiltere,Orta
+1981-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1982-01-01,Katrina Kasırgası,ABD,Yüksek
+1983-01-01,Haiti Depremi,Haiti,Yüksek
+1984-01-01,Notre Dame Yangını,Fransa,Düşük
+1985-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1986-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1987-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1988-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1989-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1990-01-01,Brexit Referandumu,İngiltere,Orta
+1991-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1992-01-01,Katrina Kasırgası,ABD,Yüksek
+1993-01-01,Haiti Depremi,Haiti,Yüksek
+1994-01-01,Notre Dame Yangını,Fransa,Düşük
+1995-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1996-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1997-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1998-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1999-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2000-01-01,Brexit Referandumu,İngiltere,Orta
+2001-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2002-01-01,Katrina Kasırgası,ABD,Yüksek
+2003-01-01,Haiti Depremi,Haiti,Yüksek
+2004-01-01,Notre Dame Yangını,Fransa,Düşük
+2005-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2006-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2007-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2008-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2009-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2010-01-01,Brexit Referandumu,İngiltere,Orta
+2011-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2012-01-01,Katrina Kasırgası,ABD,Yüksek
+2013-01-01,Haiti Depremi,Haiti,Yüksek
+2014-01-01,Notre Dame Yangını,Fransa,Düşük
+2015-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2016-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2017-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2018-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2019-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2020-01-01,Brexit Referandumu,İngiltere,Orta
+2021-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2022-01-01,Katrina Kasırgası,ABD,Yüksek
+1950-01-01,Haiti Depremi,Haiti,Yüksek
+1951-01-01,Notre Dame Yangını,Fransa,Düşük
+1952-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1953-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1954-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1955-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1956-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1957-01-01,Brexit Referandumu,İngiltere,Orta
+1958-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1959-01-01,Katrina Kasırgası,ABD,Yüksek
+1960-01-01,Haiti Depremi,Haiti,Yüksek
+1961-01-01,Notre Dame Yangını,Fransa,Düşük
+1962-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1963-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1964-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1965-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1966-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1967-01-01,Brexit Referandumu,İngiltere,Orta
+1968-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1969-01-01,Katrina Kasırgası,ABD,Yüksek
+1970-01-01,Haiti Depremi,Haiti,Yüksek
+1971-01-01,Notre Dame Yangını,Fransa,Düşük
+1972-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1973-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1974-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1975-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1976-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1977-01-01,Brexit Referandumu,İngiltere,Orta
+1978-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1979-01-01,Katrina Kasırgası,ABD,Yüksek
+1980-01-01,Haiti Depremi,Haiti,Yüksek
+1981-01-01,Notre Dame Yangını,Fransa,Düşük
+1982-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1983-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1984-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1985-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1986-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1987-01-01,Brexit Referandumu,İngiltere,Orta
+1988-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1989-01-01,Katrina Kasırgası,ABD,Yüksek
+1990-01-01,Haiti Depremi,Haiti,Yüksek
+1991-01-01,Notre Dame Yangını,Fransa,Düşük
+1992-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1993-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1994-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1995-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1996-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1997-01-01,Brexit Referandumu,İngiltere,Orta
+1998-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1999-01-01,Katrina Kasırgası,ABD,Yüksek
+2000-01-01,Haiti Depremi,Haiti,Yüksek
+2001-01-01,Notre Dame Yangını,Fransa,Düşük
+2002-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2003-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2004-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2005-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2006-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2007-01-01,Brexit Referandumu,İngiltere,Orta
+2008-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2009-01-01,Katrina Kasırgası,ABD,Yüksek
+2010-01-01,Haiti Depremi,Haiti,Yüksek
+2011-01-01,Notre Dame Yangını,Fransa,Düşük
+2012-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2013-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2014-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2015-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2016-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2017-01-01,Brexit Referandumu,İngiltere,Orta
+2018-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2019-01-01,Katrina Kasırgası,ABD,Yüksek
+2020-01-01,Haiti Depremi,Haiti,Yüksek
+2021-01-01,Notre Dame Yangını,Fransa,Düşük
+2022-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1950-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1951-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1952-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1953-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1954-01-01,Brexit Referandumu,İngiltere,Orta
+1955-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1956-01-01,Katrina Kasırgası,ABD,Yüksek
+1957-01-01,Haiti Depremi,Haiti,Yüksek
+1958-01-01,Notre Dame Yangını,Fransa,Düşük
+1959-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1960-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1961-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1962-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1963-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1964-01-01,Brexit Referandumu,İngiltere,Orta
+1965-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1966-01-01,Katrina Kasırgası,ABD,Yüksek
+1967-01-01,Haiti Depremi,Haiti,Yüksek
+1968-01-01,Notre Dame Yangını,Fransa,Düşük
+1969-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1970-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1971-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1972-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1973-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1974-01-01,Brexit Referandumu,İngiltere,Orta
+1975-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1976-01-01,Katrina Kasırgası,ABD,Yüksek
+1977-01-01,Haiti Depremi,Haiti,Yüksek
+1978-01-01,Notre Dame Yangını,Fransa,Düşük
+1979-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1980-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1981-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1982-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1983-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1984-01-01,Brexit Referandumu,İngiltere,Orta
+1985-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1986-01-01,Katrina Kasırgası,ABD,Yüksek
+1987-01-01,Haiti Depremi,Haiti,Yüksek
+1988-01-01,Notre Dame Yangını,Fransa,Düşük
+1989-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1990-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1991-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1992-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1993-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1994-01-01,Brexit Referandumu,İngiltere,Orta
+1995-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1996-01-01,Katrina Kasırgası,ABD,Yüksek
+1997-01-01,Haiti Depremi,Haiti,Yüksek
+1998-01-01,Notre Dame Yangını,Fransa,Düşük
+1999-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2000-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2001-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2002-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2003-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2004-01-01,Brexit Referandumu,İngiltere,Orta
+2005-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2006-01-01,Katrina Kasırgası,ABD,Yüksek
+2007-01-01,Haiti Depremi,Haiti,Yüksek
+2008-01-01,Notre Dame Yangını,Fransa,Düşük
+2009-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2010-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2011-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2012-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2013-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2014-01-01,Brexit Referandumu,İngiltere,Orta
+2015-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2016-01-01,Katrina Kasırgası,ABD,Yüksek
+2017-01-01,Haiti Depremi,Haiti,Yüksek
+2018-01-01,Notre Dame Yangını,Fransa,Düşük
+2019-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2020-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2021-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2022-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1950-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1951-01-01,Brexit Referandumu,İngiltere,Orta
+1952-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1953-01-01,Katrina Kasırgası,ABD,Yüksek
+1954-01-01,Haiti Depremi,Haiti,Yüksek
+1955-01-01,Notre Dame Yangını,Fransa,Düşük
+1956-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1957-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1958-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1959-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1960-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1961-01-01,Brexit Referandumu,İngiltere,Orta
+1962-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1963-01-01,Katrina Kasırgası,ABD,Yüksek
+1964-01-01,Haiti Depremi,Haiti,Yüksek
+1965-01-01,Notre Dame Yangını,Fransa,Düşük
+1966-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1967-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1968-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1969-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1970-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1971-01-01,Brexit Referandumu,İngiltere,Orta
+1972-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1973-01-01,Katrina Kasırgası,ABD,Yüksek
+1974-01-01,Haiti Depremi,Haiti,Yüksek
+1975-01-01,Notre Dame Yangını,Fransa,Düşük
+1976-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1977-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1978-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1979-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1980-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1981-01-01,Brexit Referandumu,İngiltere,Orta
+1982-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1983-01-01,Katrina Kasırgası,ABD,Yüksek
+1984-01-01,Haiti Depremi,Haiti,Yüksek
+1985-01-01,Notre Dame Yangını,Fransa,Düşük
+1986-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1987-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1988-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1989-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1990-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1991-01-01,Brexit Referandumu,İngiltere,Orta
+1992-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1993-01-01,Katrina Kasırgası,ABD,Yüksek
+1994-01-01,Haiti Depremi,Haiti,Yüksek
+1995-01-01,Notre Dame Yangını,Fransa,Düşük
+1996-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1997-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1998-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1999-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2000-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2001-01-01,Brexit Referandumu,İngiltere,Orta
+2002-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2003-01-01,Katrina Kasırgası,ABD,Yüksek
+2004-01-01,Haiti Depremi,Haiti,Yüksek
+2005-01-01,Notre Dame Yangını,Fransa,Düşük
+2006-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2007-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2008-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2009-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2010-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2011-01-01,Brexit Referandumu,İngiltere,Orta
+2012-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2013-01-01,Katrina Kasırgası,ABD,Yüksek
+2014-01-01,Haiti Depremi,Haiti,Yüksek
+2015-01-01,Notre Dame Yangını,Fransa,Düşük
+2016-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2017-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2018-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2019-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2020-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2021-01-01,Brexit Referandumu,İngiltere,Orta
+2022-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1950-01-01,Katrina Kasırgası,ABD,Yüksek
+1951-01-01,Haiti Depremi,Haiti,Yüksek
+1952-01-01,Notre Dame Yangını,Fransa,Düşük
+1953-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1954-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1955-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1956-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1957-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1958-01-01,Brexit Referandumu,İngiltere,Orta
+1959-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1960-01-01,Katrina Kasırgası,ABD,Yüksek
+1961-01-01,Haiti Depremi,Haiti,Yüksek
+1962-01-01,Notre Dame Yangını,Fransa,Düşük
+1963-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1964-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1965-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1966-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1967-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1968-01-01,Brexit Referandumu,İngiltere,Orta
+1969-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1970-01-01,Katrina Kasırgası,ABD,Yüksek
+1971-01-01,Haiti Depremi,Haiti,Yüksek
+1972-01-01,Notre Dame Yangını,Fransa,Düşük
+1973-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1974-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1975-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1976-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1977-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1978-01-01,Brexit Referandumu,İngiltere,Orta
+1979-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1980-01-01,Katrina Kasırgası,ABD,Yüksek
+1981-01-01,Haiti Depremi,Haiti,Yüksek
+1982-01-01,Notre Dame Yangını,Fransa,Düşük
+1983-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1984-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1985-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1986-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1987-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1988-01-01,Brexit Referandumu,İngiltere,Orta
+1989-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1990-01-01,Katrina Kasırgası,ABD,Yüksek
+1991-01-01,Haiti Depremi,Haiti,Yüksek
+1992-01-01,Notre Dame Yangını,Fransa,Düşük
+1993-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1994-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1995-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1996-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1997-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1998-01-01,Brexit Referandumu,İngiltere,Orta
+1999-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2000-01-01,Katrina Kasırgası,ABD,Yüksek
+2001-01-01,Haiti Depremi,Haiti,Yüksek
+2002-01-01,Notre Dame Yangını,Fransa,Düşük
+2003-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2004-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2005-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2006-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2007-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2008-01-01,Brexit Referandumu,İngiltere,Orta
+2009-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2010-01-01,Katrina Kasırgası,ABD,Yüksek
+2011-01-01,Haiti Depremi,Haiti,Yüksek
+2012-01-01,Notre Dame Yangını,Fransa,Düşük
+2013-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2014-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2015-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2016-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2017-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2018-01-01,Brexit Referandumu,İngiltere,Orta
+2019-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2020-01-01,Katrina Kasırgası,ABD,Yüksek
+2021-01-01,Haiti Depremi,Haiti,Yüksek
+2022-01-01,Notre Dame Yangını,Fransa,Düşük
+1950-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1951-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1952-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1953-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1954-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1955-01-01,Brexit Referandumu,İngiltere,Orta
+1956-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1957-01-01,Katrina Kasırgası,ABD,Yüksek
+1958-01-01,Haiti Depremi,Haiti,Yüksek
+1959-01-01,Notre Dame Yangını,Fransa,Düşük
+1960-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1961-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1962-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1963-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1964-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1965-01-01,Brexit Referandumu,İngiltere,Orta
+1966-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1967-01-01,Katrina Kasırgası,ABD,Yüksek
+1968-01-01,Haiti Depremi,Haiti,Yüksek
+1969-01-01,Notre Dame Yangını,Fransa,Düşük
+1970-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1971-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1972-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1973-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1974-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1975-01-01,Brexit Referandumu,İngiltere,Orta
+1976-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1977-01-01,Katrina Kasırgası,ABD,Yüksek
+1978-01-01,Haiti Depremi,Haiti,Yüksek
+1979-01-01,Notre Dame Yangını,Fransa,Düşük
+1980-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1981-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1982-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1983-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1984-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1985-01-01,Brexit Referandumu,İngiltere,Orta
+1986-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1987-01-01,Katrina Kasırgası,ABD,Yüksek
+1988-01-01,Haiti Depremi,Haiti,Yüksek
+1989-01-01,Notre Dame Yangını,Fransa,Düşük
+1990-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1991-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1992-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1993-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1994-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1995-01-01,Brexit Referandumu,İngiltere,Orta
+1996-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1997-01-01,Katrina Kasırgası,ABD,Yüksek
+1998-01-01,Haiti Depremi,Haiti,Yüksek
+1999-01-01,Notre Dame Yangını,Fransa,Düşük
+2000-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2001-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2002-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2003-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2004-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2005-01-01,Brexit Referandumu,İngiltere,Orta
+2006-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2007-01-01,Katrina Kasırgası,ABD,Yüksek
+2008-01-01,Haiti Depremi,Haiti,Yüksek
+2009-01-01,Notre Dame Yangını,Fransa,Düşük
+2010-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2011-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2012-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2013-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2014-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2015-01-01,Brexit Referandumu,İngiltere,Orta
+2016-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2017-01-01,Katrina Kasırgası,ABD,Yüksek
+2018-01-01,Haiti Depremi,Haiti,Yüksek
+2019-01-01,Notre Dame Yangını,Fransa,Düşük
+2020-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2021-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2022-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1950-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1951-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1952-01-01,Brexit Referandumu,İngiltere,Orta
+1953-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1954-01-01,Katrina Kasırgası,ABD,Yüksek
+1955-01-01,Haiti Depremi,Haiti,Yüksek
+1956-01-01,Notre Dame Yangını,Fransa,Düşük
+1957-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1958-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1959-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1960-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1961-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1962-01-01,Brexit Referandumu,İngiltere,Orta
+1963-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1964-01-01,Katrina Kasırgası,ABD,Yüksek
+1965-01-01,Haiti Depremi,Haiti,Yüksek
+1966-01-01,Notre Dame Yangını,Fransa,Düşük
+1967-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1968-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1969-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1970-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1971-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1972-01-01,Brexit Referandumu,İngiltere,Orta
+1973-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1974-01-01,Katrina Kasırgası,ABD,Yüksek
+1975-01-01,Haiti Depremi,Haiti,Yüksek
+1976-01-01,Notre Dame Yangını,Fransa,Düşük
+1977-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1978-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1979-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1980-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1981-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1982-01-01,Brexit Referandumu,İngiltere,Orta
+1983-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1984-01-01,Katrina Kasırgası,ABD,Yüksek
+1985-01-01,Haiti Depremi,Haiti,Yüksek
+1986-01-01,Notre Dame Yangını,Fransa,Düşük
+1987-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1988-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1989-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1990-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1991-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1992-01-01,Brexit Referandumu,İngiltere,Orta
+1993-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1994-01-01,Katrina Kasırgası,ABD,Yüksek
+1995-01-01,Haiti Depremi,Haiti,Yüksek
+1996-01-01,Notre Dame Yangını,Fransa,Düşük
+1997-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1998-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1999-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2000-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2001-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2002-01-01,Brexit Referandumu,İngiltere,Orta
+2003-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2004-01-01,Katrina Kasırgası,ABD,Yüksek
+2005-01-01,Haiti Depremi,Haiti,Yüksek
+2006-01-01,Notre Dame Yangını,Fransa,Düşük
+2007-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2008-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2009-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2010-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2011-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2012-01-01,Brexit Referandumu,İngiltere,Orta
+2013-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2014-01-01,Katrina Kasırgası,ABD,Yüksek
+2015-01-01,Haiti Depremi,Haiti,Yüksek
+2016-01-01,Notre Dame Yangını,Fransa,Düşük
+2017-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2018-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2019-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2020-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2021-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2022-01-01,Brexit Referandumu,İngiltere,Orta
+1950-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1951-01-01,Katrina Kasırgası,ABD,Yüksek
+1952-01-01,Haiti Depremi,Haiti,Yüksek
+1953-01-01,Notre Dame Yangını,Fransa,Düşük
+1954-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1955-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1956-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1957-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1958-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1959-01-01,Brexit Referandumu,İngiltere,Orta
+1960-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1961-01-01,Katrina Kasırgası,ABD,Yüksek
+1962-01-01,Haiti Depremi,Haiti,Yüksek
+1963-01-01,Notre Dame Yangını,Fransa,Düşük
+1964-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1965-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1966-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1967-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1968-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1969-01-01,Brexit Referandumu,İngiltere,Orta
+1970-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1971-01-01,Katrina Kasırgası,ABD,Yüksek
+1972-01-01,Haiti Depremi,Haiti,Yüksek
+1973-01-01,Notre Dame Yangını,Fransa,Düşük
+1974-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1975-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1976-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1977-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1978-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1979-01-01,Brexit Referandumu,İngiltere,Orta
+1980-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1981-01-01,Katrina Kasırgası,ABD,Yüksek
+1982-01-01,Haiti Depremi,Haiti,Yüksek
+1983-01-01,Notre Dame Yangını,Fransa,Düşük
+1984-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1985-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1986-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1987-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1988-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1989-01-01,Brexit Referandumu,İngiltere,Orta
+1990-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1991-01-01,Katrina Kasırgası,ABD,Yüksek
+1992-01-01,Haiti Depremi,Haiti,Yüksek
+1993-01-01,Notre Dame Yangını,Fransa,Düşük
+1994-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1995-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1996-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1997-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1998-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1999-01-01,Brexit Referandumu,İngiltere,Orta
+2000-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2001-01-01,Katrina Kasırgası,ABD,Yüksek
+2002-01-01,Haiti Depremi,Haiti,Yüksek
+2003-01-01,Notre Dame Yangını,Fransa,Düşük
+2004-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2005-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2006-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2007-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2008-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2009-01-01,Brexit Referandumu,İngiltere,Orta
+2010-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2011-01-01,Katrina Kasırgası,ABD,Yüksek
+2012-01-01,Haiti Depremi,Haiti,Yüksek
+2013-01-01,Notre Dame Yangını,Fransa,Düşük
+2014-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2015-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2016-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2017-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2018-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2019-01-01,Brexit Referandumu,İngiltere,Orta
+2020-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2021-01-01,Katrina Kasırgası,ABD,Yüksek
+2022-01-01,Haiti Depremi,Haiti,Yüksek
+1950-01-01,Notre Dame Yangını,Fransa,Düşük
+1951-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1952-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1953-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1954-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1955-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1956-01-01,Brexit Referandumu,İngiltere,Orta
+1957-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1958-01-01,Katrina Kasırgası,ABD,Yüksek
+1959-01-01,Haiti Depremi,Haiti,Yüksek
+1960-01-01,Notre Dame Yangını,Fransa,Düşük
+1961-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1962-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1963-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1964-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1965-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1966-01-01,Brexit Referandumu,İngiltere,Orta
+1967-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1968-01-01,Katrina Kasırgası,ABD,Yüksek
+1969-01-01,Haiti Depremi,Haiti,Yüksek
+1970-01-01,Notre Dame Yangını,Fransa,Düşük
+1971-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1972-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1973-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1974-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1975-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1976-01-01,Brexit Referandumu,İngiltere,Orta
+1977-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1978-01-01,Katrina Kasırgası,ABD,Yüksek
+1979-01-01,Haiti Depremi,Haiti,Yüksek
+1980-01-01,Notre Dame Yangını,Fransa,Düşük
+1981-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1982-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1983-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1984-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1985-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1986-01-01,Brexit Referandumu,İngiltere,Orta
+1987-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1988-01-01,Katrina Kasırgası,ABD,Yüksek
+1989-01-01,Haiti Depremi,Haiti,Yüksek
+1990-01-01,Notre Dame Yangını,Fransa,Düşük
+1991-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1992-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1993-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1994-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1995-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1996-01-01,Brexit Referandumu,İngiltere,Orta
+1997-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1998-01-01,Katrina Kasırgası,ABD,Yüksek
+1999-01-01,Haiti Depremi,Haiti,Yüksek
+2000-01-01,Notre Dame Yangını,Fransa,Düşük
+2001-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2002-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2003-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2004-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2005-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2006-01-01,Brexit Referandumu,İngiltere,Orta
+2007-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2008-01-01,Katrina Kasırgası,ABD,Yüksek
+2009-01-01,Haiti Depremi,Haiti,Yüksek
+2010-01-01,Notre Dame Yangını,Fransa,Düşük
+2011-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2012-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2013-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2014-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2015-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2016-01-01,Brexit Referandumu,İngiltere,Orta
+2017-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2018-01-01,Katrina Kasırgası,ABD,Yüksek
+2019-01-01,Haiti Depremi,Haiti,Yüksek
+2020-01-01,Notre Dame Yangını,Fransa,Düşük
+2021-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2022-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1950-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1951-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1952-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1953-01-01,Brexit Referandumu,İngiltere,Orta
+1954-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1955-01-01,Katrina Kasırgası,ABD,Yüksek
+1956-01-01,Haiti Depremi,Haiti,Yüksek
+1957-01-01,Notre Dame Yangını,Fransa,Düşük
+1958-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1959-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1960-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1961-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1962-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1963-01-01,Brexit Referandumu,İngiltere,Orta
+1964-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1965-01-01,Katrina Kasırgası,ABD,Yüksek
+1966-01-01,Haiti Depremi,Haiti,Yüksek
+1967-01-01,Notre Dame Yangını,Fransa,Düşük
+1968-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1969-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1970-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1971-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1972-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1973-01-01,Brexit Referandumu,İngiltere,Orta
+1974-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1975-01-01,Katrina Kasırgası,ABD,Yüksek
+1976-01-01,Haiti Depremi,Haiti,Yüksek
+1977-01-01,Notre Dame Yangını,Fransa,Düşük
+1978-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1979-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1980-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1981-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1982-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1983-01-01,Brexit Referandumu,İngiltere,Orta
+1984-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1985-01-01,Katrina Kasırgası,ABD,Yüksek
+1986-01-01,Haiti Depremi,Haiti,Yüksek
+1987-01-01,Notre Dame Yangını,Fransa,Düşük
+1988-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1989-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1990-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1991-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1992-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1993-01-01,Brexit Referandumu,İngiltere,Orta
+1994-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1995-01-01,Katrina Kasırgası,ABD,Yüksek
+1996-01-01,Haiti Depremi,Haiti,Yüksek
+1997-01-01,Notre Dame Yangını,Fransa,Düşük
+1998-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1999-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2000-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2001-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2002-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2003-01-01,Brexit Referandumu,İngiltere,Orta
+2004-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2005-01-01,Katrina Kasırgası,ABD,Yüksek
+2006-01-01,Haiti Depremi,Haiti,Yüksek
+2007-01-01,Notre Dame Yangını,Fransa,Düşük
+2008-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2009-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2010-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2011-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2012-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2013-01-01,Brexit Referandumu,İngiltere,Orta
+2014-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2015-01-01,Katrina Kasırgası,ABD,Yüksek
+2016-01-01,Haiti Depremi,Haiti,Yüksek
+2017-01-01,Notre Dame Yangını,Fransa,Düşük
+2018-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2019-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2020-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2021-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2022-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1950-01-01,Brexit Referandumu,İngiltere,Orta
+1951-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1952-01-01,Katrina Kasırgası,ABD,Yüksek
+1953-01-01,Haiti Depremi,Haiti,Yüksek
+1954-01-01,Notre Dame Yangını,Fransa,Düşük
+1955-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1956-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1957-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1958-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1959-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1960-01-01,Brexit Referandumu,İngiltere,Orta
+1961-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1962-01-01,Katrina Kasırgası,ABD,Yüksek
+1963-01-01,Haiti Depremi,Haiti,Yüksek
+1964-01-01,Notre Dame Yangını,Fransa,Düşük
+1965-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1966-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1967-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1968-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1969-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1970-01-01,Brexit Referandumu,İngiltere,Orta
+1971-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1972-01-01,Katrina Kasırgası,ABD,Yüksek
+1973-01-01,Haiti Depremi,Haiti,Yüksek
+1974-01-01,Notre Dame Yangını,Fransa,Düşük
+1975-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1976-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1977-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1978-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1979-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1980-01-01,Brexit Referandumu,İngiltere,Orta
+1981-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1982-01-01,Katrina Kasırgası,ABD,Yüksek
+1983-01-01,Haiti Depremi,Haiti,Yüksek
+1984-01-01,Notre Dame Yangını,Fransa,Düşük
+1985-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1986-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1987-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1988-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1989-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1990-01-01,Brexit Referandumu,İngiltere,Orta
+1991-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1992-01-01,Katrina Kasırgası,ABD,Yüksek
+1993-01-01,Haiti Depremi,Haiti,Yüksek
+1994-01-01,Notre Dame Yangını,Fransa,Düşük
+1995-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1996-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1997-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1998-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1999-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2000-01-01,Brexit Referandumu,İngiltere,Orta
+2001-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2002-01-01,Katrina Kasırgası,ABD,Yüksek
+2003-01-01,Haiti Depremi,Haiti,Yüksek
+2004-01-01,Notre Dame Yangını,Fransa,Düşük
+2005-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2006-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2007-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2008-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2009-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2010-01-01,Brexit Referandumu,İngiltere,Orta
+2011-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2012-01-01,Katrina Kasırgası,ABD,Yüksek
+2013-01-01,Haiti Depremi,Haiti,Yüksek
+2014-01-01,Notre Dame Yangını,Fransa,Düşük
+2015-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2016-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2017-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2018-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2019-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2020-01-01,Brexit Referandumu,İngiltere,Orta
+2021-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2022-01-01,Katrina Kasırgası,ABD,Yüksek
+1950-01-01,Haiti Depremi,Haiti,Yüksek
+1951-01-01,Notre Dame Yangını,Fransa,Düşük
+1952-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1953-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1954-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1955-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1956-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1957-01-01,Brexit Referandumu,İngiltere,Orta
+1958-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1959-01-01,Katrina Kasırgası,ABD,Yüksek
+1960-01-01,Haiti Depremi,Haiti,Yüksek
+1961-01-01,Notre Dame Yangını,Fransa,Düşük
+1962-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1963-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1964-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1965-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1966-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1967-01-01,Brexit Referandumu,İngiltere,Orta
+1968-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1969-01-01,Katrina Kasırgası,ABD,Yüksek
+1970-01-01,Haiti Depremi,Haiti,Yüksek
+1971-01-01,Notre Dame Yangını,Fransa,Düşük
+1972-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1973-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1974-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1975-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1976-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1977-01-01,Brexit Referandumu,İngiltere,Orta
+1978-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1979-01-01,Katrina Kasırgası,ABD,Yüksek
+1980-01-01,Haiti Depremi,Haiti,Yüksek
+1981-01-01,Notre Dame Yangını,Fransa,Düşük
+1982-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1983-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1984-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1985-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1986-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1987-01-01,Brexit Referandumu,İngiltere,Orta
+1988-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1989-01-01,Katrina Kasırgası,ABD,Yüksek
+1990-01-01,Haiti Depremi,Haiti,Yüksek
+1991-01-01,Notre Dame Yangını,Fransa,Düşük
+1992-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1993-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1994-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1995-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1996-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1997-01-01,Brexit Referandumu,İngiltere,Orta
+1998-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1999-01-01,Katrina Kasırgası,ABD,Yüksek
+2000-01-01,Haiti Depremi,Haiti,Yüksek
+2001-01-01,Notre Dame Yangını,Fransa,Düşük
+2002-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2003-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2004-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2005-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2006-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2007-01-01,Brexit Referandumu,İngiltere,Orta
+2008-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2009-01-01,Katrina Kasırgası,ABD,Yüksek
+2010-01-01,Haiti Depremi,Haiti,Yüksek
+2011-01-01,Notre Dame Yangını,Fransa,Düşük
+2012-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2013-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2014-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2015-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2016-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2017-01-01,Brexit Referandumu,İngiltere,Orta
+2018-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2019-01-01,Katrina Kasırgası,ABD,Yüksek
+2020-01-01,Haiti Depremi,Haiti,Yüksek
+2021-01-01,Notre Dame Yangını,Fransa,Düşük
+2022-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1950-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1951-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1952-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1953-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1954-01-01,Brexit Referandumu,İngiltere,Orta
+1955-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1956-01-01,Katrina Kasırgası,ABD,Yüksek
+1957-01-01,Haiti Depremi,Haiti,Yüksek
+1958-01-01,Notre Dame Yangını,Fransa,Düşük
+1959-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1960-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1961-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1962-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1963-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1964-01-01,Brexit Referandumu,İngiltere,Orta
+1965-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1966-01-01,Katrina Kasırgası,ABD,Yüksek
+1967-01-01,Haiti Depremi,Haiti,Yüksek
+1968-01-01,Notre Dame Yangını,Fransa,Düşük
+1969-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1970-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1971-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1972-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1973-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1974-01-01,Brexit Referandumu,İngiltere,Orta
+1975-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1976-01-01,Katrina Kasırgası,ABD,Yüksek
+1977-01-01,Haiti Depremi,Haiti,Yüksek
+1978-01-01,Notre Dame Yangını,Fransa,Düşük
+1979-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1980-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1981-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1982-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1983-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1984-01-01,Brexit Referandumu,İngiltere,Orta
+1985-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1986-01-01,Katrina Kasırgası,ABD,Yüksek
+1987-01-01,Haiti Depremi,Haiti,Yüksek
+1988-01-01,Notre Dame Yangını,Fransa,Düşük
+1989-01-01,Cambridge Analytica Skandalı,ABD,Orta
+1990-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+1991-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+1992-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1993-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1994-01-01,Brexit Referandumu,İngiltere,Orta
+1995-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1996-01-01,Katrina Kasırgası,ABD,Yüksek
+1997-01-01,Haiti Depremi,Haiti,Yüksek
+1998-01-01,Notre Dame Yangını,Fransa,Düşük
+1999-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2000-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2001-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2002-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2003-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2004-01-01,Brexit Referandumu,İngiltere,Orta
+2005-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2006-01-01,Katrina Kasırgası,ABD,Yüksek
+2007-01-01,Haiti Depremi,Haiti,Yüksek
+2008-01-01,Notre Dame Yangını,Fransa,Düşük
+2009-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2010-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2011-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2012-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+2013-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+2014-01-01,Brexit Referandumu,İngiltere,Orta
+2015-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+2016-01-01,Katrina Kasırgası,ABD,Yüksek
+2017-01-01,Haiti Depremi,Haiti,Yüksek
+2018-01-01,Notre Dame Yangını,Fransa,Düşük
+2019-01-01,Cambridge Analytica Skandalı,ABD,Orta
+2020-01-01,İkiz Kuleler Saldırısı,ABD,Çok Yüksek
+2021-01-01,Lehman Brothers'ın Batışı,ABD,Yüksek
+2022-01-01,COVID-19 Pandemi İlanı,Dünya,Çok Yüksek
+1950-01-01,Fukushima Nükleer Felaketi,Japonya,Yüksek
+1951-01-01,Brexit Referandumu,İngiltere,Orta
+1952-01-01,Rusya'nın Ukrayna'yı İşgali,Ukrayna,Çok Yüksek
+1953-01-01,Katrina Kasırgası,ABD,Yüksek
+1954-01-01,Haiti Depremi,Haiti,Yüksek
+1955-01-01,Notre Dame Yangını,Fransa,Düşük
+1956-01-01,Cambridge Analytica Skandalı,ABD,Orta

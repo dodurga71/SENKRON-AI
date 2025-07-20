@@ -1,0 +1,1 @@
+# Tüm sistemi entegre test eder

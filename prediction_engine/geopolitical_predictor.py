@@ -1,0 +1,1 @@
+# Jeopolitik tahminler

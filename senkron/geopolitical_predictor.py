@@ -1,0 +1,1 @@
+# Jeopolitik olay tahmin motoru

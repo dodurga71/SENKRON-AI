@@ -1,0 +1,1 @@
+# Gann analiz hesaplama modülü

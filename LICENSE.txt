@@ -1,0 +1,14 @@
+© 2025 Onur Selçuk. All rights reserved.
+
+This project, SENKRON-AI, is licensed under the Creative Commons BY-NC-ND 4.0 International License.
+
+You may:
+- View and study the code for educational or research purposes.
+- Share the project with attribution, as long as it is non-commercial and unmodified.
+
+You may not:
+- Use this project for commercial purposes.
+- Modify, adapt, or redistribute altered versions of this code.
+- Use this project or parts of it in other projects without explicit permission.
+
+For special licensing or collaboration, contact the author.

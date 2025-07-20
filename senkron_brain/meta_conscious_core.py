@@ -1,0 +1,1 @@
+# Yapay bilinç çekirdeği

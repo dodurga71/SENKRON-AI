@@ -1,0 +1,1 @@
+# Kaotik olay tahmini

@@ -1,0 +1,1 @@
+# İçsel çelişki analizleri

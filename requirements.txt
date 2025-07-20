@@ -1,0 +1,17 @@
+pandas==2.2.2
+numpy==1.26.4
+skyfield==1.45
+scikit-learn==1.4.2
+tensorflow==2.15.0
+torch==2.3.0
+matplotlib==3.8.4
+seaborn==0.13.2
+flask==3.0.3
+fastapi==0.110.0
+uvicorn==0.29.0
+sqlite3-binary==0.0.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+tweepy==4.14.0
+textblob==0.18.0.post0
+nltk==3.8.1
